@@ -1,7 +1,9 @@
 Interview Prep Resources
 ========================
 
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/nafSadh/intvw-prep-res)
+[![GitHub stars](https://img.shields.io/github/stars/nafSadh/intvw-prep-res.svg?style=social&label=Stars)](https://github.com/nafSadh/intvw-prep-res)
+[![GitHub forks](https://img.shields.io/github/forks/nafsadh/intvw-prep-res.svg?style=social&label=Fork)](https://github.com/nafSadh/intvw-prep-res)
+
 
 `> draft v0.5`
 
