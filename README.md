@@ -1,10 +1,5 @@
 Interview Prep Resources
 ========================
-> Maintained on [GitHub](https://github.com/nafSadh/intvw-prep-res) by [nafSadh](http://nafSadh.com).   
-> Please report issues and add suggestions [here](https://github.com/nafSadh/notes/projects/1). 
-
-<hr/>
-
 `> draft v0.4`
 
 Preparing for software engineering interview needs time, attention and practice; and to help with that, there are many 
@@ -325,5 +320,11 @@ for such interviews. Comes with a tie-in [blog post
 
 - [~~The ultimate~~ guide to acing your technical interview](https://learntocodewith.me/posts/technical-interview/) 
  
-2018 (C) nafSadh   
+<br/>
+<br/>
+<hr/>
+
+> 2018 © nafSadh  
+> Maintained on [GitHub](https://github.com/nafSadh/intvw-prep-res) by [nafSadh](http://nafSadh.com).   
+> Please report issues and add suggestions [here](https://github.com/nafSadh/notes/projects/1).  
  
