@@ -38,6 +38,11 @@ bit everyday.
 - [More Stuff](#random-links)
 
 
+<p align="center"> <img src="https://imgs.xkcd.com/comics/job_interview.png">  </p>
+
+↗ *[xkcd 1293](https://www.xkcd.com/1293/)*: **Job Interview**
+
+
 
 ## Articles
 > Here are some insightful articles. All of them are personal takes on interview process and/or how to ace them. 
@@ -299,9 +304,6 @@ for such interviews. Comes with a tie-in [blog post
  difficult problems. 
 
 
-<p align="center"> <img src="https://imgs.xkcd.com/comics/ineffective_sorts.png">  </p>
-
-[xkcd 1185: Ineffective Sorts](https://xkcd.com/1185/)
 
 ## Mock Interview
 > Doing some mock interview is a good idea. Specially, if you can get feedback. 
