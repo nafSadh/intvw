@@ -260,6 +260,7 @@ for such interviews. Comes with a tie-in [blog post
  [Alex Orso](https://scholar.google.com/citations?user=wCfYkMkAAAAJ&hl=en).
 
 
+
 ## Coding Practice
 
 > Best way to sharpen your algorithm and problem solving skills is by engaging in 
@@ -297,6 +298,10 @@ for such interviews. Comes with a tie-in [blog post
  meh. So use with caution. I have found a lot of their explanations to be spot on and very useful in understanding 
  difficult problems. 
 
+
+<p align="center"> <img src="https://imgs.xkcd.com/comics/ineffective_sorts.png">  </p>
+
+[xkcd 1185: Ineffective Sorts](https://xkcd.com/1185/)
 
 ## Mock Interview
 > Doing some mock interview is a good idea. Specially, if you can get feedback. 
@@ -349,6 +354,9 @@ for such interviews. Comes with a tie-in [blog post
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 - [~~The ultimate~~ guide to acing your technical interview](https://learntocodewith.me/posts/technical-interview/) 
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+
+
+
  
 <br/>
 <hr/>
