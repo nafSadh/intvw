@@ -321,7 +321,6 @@ for such interviews. Comes with a tie-in [blog post
 - [~~The ultimate~~ guide to acing your technical interview](https://learntocodewith.me/posts/technical-interview/) 
  
 <br/>
-<br/>
 <hr/>
 
 > 2018 © nafSadh  
