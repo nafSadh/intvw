@@ -1,6 +1,6 @@
 Interview Prep Resources
 ========================
-`> draft v0.4`
+`> draft v0.5`
 
 Preparing for software engineering interview needs time, attention and practice; and to help with that, there are many 
 resources sprinkled all over the internet and bookshelves. Some of them are wonderful and some of them are meh. Browsing
@@ -8,8 +8,8 @@ through these can be overwhelming.
 
 Therefore, I have tried to create ***a curated list of resources*** -- these are just some of the good options you can 
 chose from. To help you decide on which resource to try, I have annotated each item.   
-By no means, you have to go through all of it. I do not claim that, these are the best resource out there either; there
-must be resources I don't know about which are even better and there might be some resource which I haven't included 
+By no means, you have to go through all of it. I do not claim that, these are the best resources out there either; there
+must be resources I don't know about which are even better and there might be some resources which I haven't included 
 but is useful to someone else.  
 
 I would suggest you to go through some of the articles and look at some of the study plans. Then pick one learning 
@@ -21,10 +21,10 @@ bit everyday.
 
 **Table of Contents**
 - [Articles](#articles)
-- [Study Plan](#study-Plan)
+- [Study Plans and Reading Lists](#study-plans-and-reading-lists)
 - [Books](#on-books)
 - [Video Lectures](#video-lectures)
-- [Courses](#courses)
+- [Online Learning Resources](#courses)
 - [Coding Practice](#coding-practice)
 - [Mock Interview](#mock-interview)
 - [Cheat sheets](#cheat-sheets)
@@ -56,22 +56,22 @@ bit everyday.
  
 
 
-## Study Plan
+## Study Plans and Reading Lists
 - **[Coding Interview University](https://github.com/jwasham/coding-interview-university)** -- this became a wildly 
  popular compendium of resources for self-paced software engineering training. John Washam wanted to gear up himself 
  as a software engineer and embarked on an [8 month long journey
  ](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13) 
- towards being an skilled software engineer. This study plan is overly comprehensive and as John mentioned, few times, 
- you do not need to go through everything he went through. My personal recommendation is to go through some of the 
- articles and pick up at least one algorithm book (more on it later) and one coding prep book/website (more on it later 
- as well). This directory lists a lot of good reading material on specific topic collected from various sources; don't 
- be voracious, eat healthy and read as needed. 
+ towards being an skilled software engineer. This study plan is overly comprehensive and as John mentioned, several 
+ times, you do not need to go through everything he went through. My personal recommendation is to go through some of 
+ the articles and pick up at least one algorithm book (more on it later) and one coding prep book/website (more on it 
+ later as well). This directory lists a lot of good reading material on specific topic collected from various sources; 
+ don't be voracious, eat healthy and read (study) as needed. 
 
 - [**Ace the coding interview, every time**
  ](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc) -- An Amazon engineer's take on
  how not to fail any technical interview. 
 
-- Andyy Hope on [**software engineering interviews**
+- Andyy Hope[↗](https://www.linkedin.com/in/andyyhope/) on [**software engineering interviews**
  ](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af) -- a recent article outlining how he 
  prepared for and got hired at Facebook. 
  
@@ -80,8 +80,25 @@ bit everyday.
  he prepared for tech interviews. Yangshun Tay[↗](http://yangshun.im/) now works as a front-end engineer at Facebook. 
  Oh, and this guide comes with a [handbook](https://github.com/yangshun/tech-interview-handbook).
 
-- Sam Gavis-Hughson from Byte by Byte on [interviewing resources](https://www.byte-by-byte.com/interviewing-resources/).
+- Sam Gavis-Hughson[↗](https://www.linkedin.com/in/sgavis/) from Byte by Byte on 
+ [interviewing resources](https://www.byte-by-byte.com/interviewing-resources/).
  
+- [**The System Design Primer**](https://github.com/donnemartin/system-design-primer) 🌟 - a comprehensive illustrated 
+ guide on how to improve your system designing skills, particularly for interview prep. Includes a flow chart of topics 
+ to cover, a study guide and then goes into providing brief overview of each topics along with useful references 
+ materials. By [Donne Martin](http://donnemartin.com/), Engineering Manager at Facebook. 
+ 
+- [**Awesome Scalability**](https://github.com/binhnguyennus/awesome-scalability) -- *"list of readings to illustrate best 
+ practices and patterns in building scalable, available, stable, performant, and intelligent large-scale systems."* 
+ -- Binh Nguyen[↗](http://binhnguyennus.com/).
+
+- [**System Design Preparation**](https://github.com/shashank88/system_design) -- *"a  collection of links/documents for the 
+following use cases: 
+  a) Prepare for a system design or open ended rounds. 
+  b) Learn more about how large scale systems work and thought process of designing a new system."*
+-- Shashank Khare[↗](https://www.linkedin.com/in/shashank-khare-a685b224/).
+
+   
 
 
 ## On Books
@@ -123,10 +140,9 @@ bit everyday.
 
 - 📜 **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this 
  is undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
- covered here are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best 
- book to study; if you can master this book, you can call yourself a master of algorithms. I specially liked graph 
- related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for some 
- readers.
+ covered here are intended for formal undergrad and grad level algorithm courses. This is one of the best book to study;
+ if you can master this book, you can call yourself a master of algorithms. I specially liked graph  related topics here 
+ during my sophomore/junior year algorithm class. However, I think this is less accessible for some readers.
 
 - **Skiena** -- Steven S. Skiena is well known in fields of algorithms, programming challenges and data science. His 
  [The Algorithm Design Manual](http://www.algorist.com/) 2e balances between practical applications of algorithms and 
@@ -135,12 +151,12 @@ bit everyday.
  keep as reference material. 
 
 - **DPV** -- [Algorithms](http://cseweb.ucsd.edu/~dasgupta/book/index.html) by Dasgupta, Papadimitriou, and Vazirani. 
- This book's PDF is officially available for [free
- ](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) online. People have mixed opinion about it. 
- IMHO, this is a well balanced and venerable algorithm text. This tends to jump too quickly into mathematics; so if you 
- are not math savvy, then this might seem difficult to you. I haven't studied the book in depth yet, but one thing I 
- liked about the contents is that, it appears to be industry appropriate. It breaks up algorithms into classes, 
- and teaches you how to recognize what kind of algorithm should be used to solve a particular problem.
+ This book's [PDF↗](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) is officially available 
+ for free online. People have mixed opinion about it. IMHO, this is a well balanced and venerable algorithm text. This 
+ tends to jump too quickly into mathematics; so if you are not math savvy, then this might seem difficult to you. I 
+ haven't studied the book in depth yet, but one thing I liked about the contents is that, it appears to be industry 
+ appropriate. It breaks up algorithms into classes, and teaches you how to recognize what kind of algorithm should be
+ used to solve a particular problem.
 
 
 #### Algorithms Refresher
@@ -164,18 +180,23 @@ for such interviews. Comes with a tie-in [blog post
 
 #### Interview Prep Books
 
-- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) *[CTCI]* 
+- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) 🌟 *[CTCI]* 
  by Gayle Laakmann McDowell and probably you would be benefited from it too. 
 
 - [Programming Interviews Exposed](http://a.co/d/67c44hm) *[PI-Exposed]* by John Mongan et al. is a very basic book 
  for people who are totally uninitiated. If *CTCI* seems difficult for you, you can pick this up to build some 
  foundation. 
 
+#### Design & Development
+
+- [**Designing Data-Intensive Applications**](http://a.co/d/aJqTIcD) -- The Big Ideas Behind Reliable, Scalable, and 
+ Maintainable Systems by Martin Kleppmann 
+
 
 
 ## Video Lectures
 
-> There some really good lectures on fundamentals of computer science and on some on interview prep
+> There are some really good lectures on fundamentals of computer science and some on interview prep.
 
 - [**CS50 2017** - Lecture 0 - Scratch](https://www.youtube.com/watch?v=y62zj9ozPOM) -- Harvard's CS50 lectures are 
  famous and now most of them are available online. This is a good intro. 
@@ -191,7 +212,7 @@ for such interviews. Comes with a tie-in [blog post
  sciences (data structures and algorithms).
 
 
-## Courses
+## Online Learning Resources
 
 ### MOOCs on Algorithm, Data Structures etc.
 
@@ -227,6 +248,12 @@ for such interviews. Comes with a tie-in [blog post
  interactive course. The reading materials are free, but interactive problem solving steps are not. 
 
 
+### Design & Development
+
+- [**Software Development Process**](https://www.udacity.com/course/software-development-process--ud805) on Udacity, 
+ in collaboration with GATech; also part of Georgia Tech's Online Masters Degree (OMS) as CS6300. Lead by 
+ [Alex Orso](https://scholar.google.com/citations?user=wCfYkMkAAAAJ&hl=en).
+
 
 ## Coding Practice
 
@@ -237,7 +264,7 @@ for such interviews. Comes with a tie-in [blog post
  [Codeforces](https://codeforces.com/) are not your cups of tea, then you can resort to one of the following:
 
 - [**LeetCode**](https://leetcode.com/problemset/all/) -- This site originally hosted some two-three hundred programming
- interview problems. It was run by Winston Tang[↗](https://www.linkedin.com/in/winston-tang/), an engineer at Google,
+ interview problems. It is run by Winston Tang[↗](https://www.linkedin.com/in/winston-tang/), an engineer at Google,
  Amazon and Intel. Recently he started working full time on LeetCode and since, the problem archive has grew to about 
  a thousand. It now also organizes contests regularly, resulting in the surge of problems. First two-three hundred 
  problems cover a wide range of everything; so you do not have to solve all 900 of them. Also, a good thing about this 
@@ -245,7 +272,7 @@ for such interviews. Comes with a tie-in [blog post
  particular company, you can review their trend. 
   - My personal suggestion is to, solve a few problems everyday and not to exhaust yourself. They also have a revisit 
   and favorite list. You should definitely utilize these. Also, [session](https://leetcode.com/session/) is a nice 
-  feature. 
+  feature.  
  
 - [**HackerRank**](https://www.hackerrank.com/) evolved from InterviewStreet. It originally provided a tool for 
  companies to arrange online coding tests. Later, they started HackerRank for programmers to practice and solve coding
@@ -256,10 +283,10 @@ for such interviews. Comes with a tie-in [blog post
   - They also arrange [contests](https://www.hackerrank.com/contests) -- some of them are often sponsored and doing well
   on them may result in direct interview invite. 
   - [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges?) is a nice touch on 
-  [Project Euler](https://projecteuler.net). 
+  [Project Euler](https://projecteuler.net).  
 
 - [**InterviewBit**](https://www.interviewbit.com/) -- organizes contests, collaborates with software companies and has
- some wonderful prep courses. 
+ some wonderful prep courses.
  
 - [**GeeksforGeeks**](https://www.geeksforgeeks.org/) -- it has a lot of articles, some are really good while some are 
  meh. So use with caution. I have found a lot of their explanations to be spot on and very useful in understanding 
@@ -304,7 +331,6 @@ for such interviews. Comes with a tie-in [blog post
 - [**Joel on Software**](https://www.joelonsoftware.com/) *[JoS]* -- Joel Spolsky, the guy behind StackOverflow, 
  Trello, FogCreek and other wonderful things, posts read-worthy articles here. 
 
-
 - [**Project Euler**](https://projecteuler.net) -- a collection of mathematical problems for which answers can be found
  using computer programs. 
 
@@ -315,10 +341,9 @@ for such interviews. Comes with a tie-in [blog post
 
 - [I failed my effing coding Interview!?
 ](https://blog.usejournal.com/i-failed-my-effing-coding-interview-ab720c339c8a)
-
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
-
 - [~~The ultimate~~ guide to acing your technical interview](https://learntocodewith.me/posts/technical-interview/) 
+- [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
  
 <br/>
 <hr/>
