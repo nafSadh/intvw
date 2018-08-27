@@ -38,9 +38,8 @@ bit everyday.
 - [More Stuff](#random-links)
 
 
-<p align="center"> <img src="https://imgs.xkcd.com/comics/job_interview.png">  </p>
-
-↗ *[xkcd 1293](https://www.xkcd.com/1293/)*: **Job Interview**
+![Job Interview](https://imgs.xkcd.com/comics/job_interview.png)  
+↗ [`xkcd 1293`](https://www.xkcd.com/1293/)
 
 
 
@@ -302,6 +301,11 @@ for such interviews. Comes with a tie-in [blog post
 - [**GeeksforGeeks**](https://www.geeksforgeeks.org/) -- it has a lot of articles, some are really good while some are 
  meh. So use with caution. I have found a lot of their explanations to be spot on and very useful in understanding 
  difficult problems. 
+
+
+
+![Ineffective Sorts](https://imgs.xkcd.com/comics/ineffective_sorts.png)  
+↗ [`xkcd 1185`](https://xkcd.com/1185/)
 
 
 
