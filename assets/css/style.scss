@@ -1,0 +1,26 @@
+---
+---
+
+$section-headings-color: #17afee !default;
+$body-text-color: #606c71 !default;
+$body-link-color: #155799 !default;
+
+@import "{{ site.theme }}";
+
+.project-name{
+  font-weight: 500 !important;
+}
+
+.logo-bg {
+  background: rgba(255,255,255,0.5);
+  border-radius: 50%;
+  width: 128px;
+  height: 128px;
+  border: 2px solid rgba(255,255,255,0.75);
+  display: inline-block;
+  padding: 16px;
+}
+
+.main-content {
+  text-align: justify;
+}
