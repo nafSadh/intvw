@@ -1,15 +1,17 @@
 Interview Prep Resources
 ========================
-`> draft v0.3`
+`> draft v0.4`
 
 Preparing for software engineering interview needs time, attention and practice; and to help with that, there are many 
 resources sprinkled all over the internet and bookshelves. Some of them are wonderful and some of them are meh. Browsing
 through these can be overwhelming.  
+
 Therefore, I have tried to create ***a curated list of resources*** -- these are just some of the good options you can 
 chose from. To help you decide on which resource to try, I have annotated each item.   
 By no means, you have to go through all of it. I do not claim that, these are the best resource out there either; there
 must be resources I don't know about which are even better and there might be some resource which I haven't included 
 but is useful to someone else.  
+
 I would suggest you to go through some of the articles and look at some of the study plans. Then pick one learning 
 resource (book/course/lecture series) and one practice resource. It is best to learn something everyday and practice a
 bit everyday. 
@@ -25,6 +27,7 @@ bit everyday.
 - [Courses](#courses)
 - [Coding Practice](#coding-practice)
 - [Mock Interview](#mock-interview)
+- [Cheat sheets](#cheat-sheets)
 - [On Résumé](#on-résumé)
 - [Bonus](#off-topic)
 - [More Stuff](#random-links)
@@ -272,6 +275,16 @@ for such interviews. Comes with a tie-in [blog post
 
 - [Pramp](https://www.pramp.com/#/) "is a FREE, online peer-2-peer platform for practicing technical interviews." It 
  matches you with other engineers for doing 1-on-1 video sessions. 
+
+
+
+## Cheat sheets
+- [**VisuAlgo**](https://visualgo.net/en) -- visually explains algorithms and data structures in action. 
+ By Steven Halim.
+
+- [Cracking the Coding Skills
+](http://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf) -- from CTCI 
+ companion website.
 
 
 ## On Résumé
