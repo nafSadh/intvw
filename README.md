@@ -316,6 +316,6 @@ for such interviews. Comes with a tie-in [blog post
 <hr/>
 
 2018 (C) nafSadh  
-Maintained on [GitHub](https://github.com/nafSadh/notes/blob/master/intvw.md) by [nafSadh](http://nafSadh.com).   
+Maintained on [GitHub](https://github.com/nafSadh/intvw-prep-res) by [nafSadh](http://nafSadh.com).   
 Please report issues and add suggestions [here](https://github.com/nafSadh/notes/projects/1).  
  
