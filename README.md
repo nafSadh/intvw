@@ -1,7 +1,3 @@
----
-comments: true
----
-
 Interview Prep Resources
 ========================
 `> draft v0.3`
