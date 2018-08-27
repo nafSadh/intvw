@@ -25,7 +25,7 @@ bit everyday.
 - [Courses](#courses)
 - [Coding Practice](#coding-practice)
 - [Mock Interview](#mock-interview)
-- [On Résumé](#on-resume)
+- [On Résumé](#on-résumé)
 - [Bonus](#off-topic)
 - [More Stuff](#random-links)
 
