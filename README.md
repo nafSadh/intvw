@@ -38,8 +38,11 @@ bit everyday.
 - [More Stuff](#random-links)
 
 
-![Job Interview](https://imgs.xkcd.com/comics/job_interview.png)  
-↗ [`xkcd 1293`](https://www.xkcd.com/1293/)
+
+<p align="center"> 
+  <img src="https://imgs.xkcd.com/comics/job_interview.png"><br/>
+  ↗ <a href="https://www.xkcd.com/1293/"><code>xkcd 1293</code></a>  
+</p>
 
 
 
@@ -304,8 +307,10 @@ for such interviews. Comes with a tie-in [blog post
 
 
 
-![Ineffective Sorts](https://imgs.xkcd.com/comics/ineffective_sorts.png)  
-↗ [`xkcd 1185`](https://xkcd.com/1185/)
+<p align="center"> 
+  <img src="https://imgs.xkcd.com/comics/ineffective_sorts.png"><br/>
+  ↗ <a href="https://www.xkcd.com/1185/"><code>xkcd 1185</code></a>  
+</p>
 
 
 
