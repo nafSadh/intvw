@@ -29,7 +29,7 @@ bit everyday.
 - [Study Plans and Reading Lists](#study-plans-and-reading-lists)
 - [Books](#on-books)
 - [Video Lectures](#video-lectures)
-- [Online Learning Resources](#courses)
+- [Online Learning Resources](#online-learning-resources)
 - [Coding Practice](#coding-practice)
 - [Mock Interview](#mock-interview)
 - [Cheat sheets](#cheat-sheets)
