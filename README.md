@@ -5,7 +5,7 @@ Interview Prep Resources
 [![GitHub forks](https://img.shields.io/github/forks/nafsadh/intvw-prep-res.svg?style=social&label=Fork)](https://github.com/nafSadh/intvw-prep-res)
 
 
-`> draft v0.5`
+`> draft v0.5.1`
 
 Preparing for software engineering interview needs time, attention and practice; and to help with that, there are many 
 resources sprinkled all over the internet and bookshelves. Some of them are wonderful and some of them are meh. Browsing
@@ -34,12 +34,12 @@ bit everyday.
 - [Mock Interview](#mock-interview)
 - [Cheat sheets](#cheat-sheets)
 - [On Résumé](#on-résumé)
-- [Bonus](#off-topic)
+- [Even if you are not interviewing](#even-if-you-are-not-interviewing)
 - [More Stuff](#random-links)
 
 
-
 <p align="center"> 
+  <br/>
   <img src="https://imgs.xkcd.com/comics/job_interview.png"><br/>
   ↗ <a href="https://www.xkcd.com/1293/"><code>xkcd 1293</code></a>  
 </p>
@@ -66,7 +66,18 @@ bit everyday.
  discusses about two broad categories of software engineering interviews: (1) domain specific interviews and 
  (2) computer science fundamentals interviews.
  
+> Following articles, are not about how to ace an interview, but these are for the other side of the table; about how 
+to hire a good engineer.
 
+- [The Guerrilla Guide to Interviewing 
+  v3.0](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - 
+  Joel Spolsky[↗](https://en.wikipedia.org/wiki/Joel_Spolsky).
+
+- [How to Hire a Programmer](https://blog.codinghorror.com/how-to-hire-a-programmer/) - by 
+  Jeff Atwood[↗](https://en.wikipedia.org/wiki/Jeff_Atwood) of Coding Horror, StackOverflow and Discourse.
+  
+- [Future Proof Your Technical Interviewing Process: Hiring or Not](http://sellsbrothers.com/12739) - 
+  Chris Sells[↗](https://www.linkedin.com/in/csells/).
 
 ## Study Plans and Reading Lists
 - **[Coding Interview University](https://github.com/jwasham/coding-interview-university)** -- this became a wildly 
@@ -342,9 +353,13 @@ for such interviews. Comes with a tie-in [blog post
 
 
 
-## Off-topic
+## Even if you are not interviewing
 > Since you are here, and I got you reading this far, I am going to share some of my favorite resources. These do not 
  directly help you in acing your technical interview but they are really useful to software engineers in general.
+
+- [**Write Code Every Day**](https://johnresig.com/blog/write-code-every-day/) -- how
+  John Resig[↗](https://en.wikipedia.org/wiki/John_Resig), creator of [jQuery](https://jquery.com/) picked up pace for
+  his pet project(s). 
 
 - ❤ [**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally 
  published on CACM. 
