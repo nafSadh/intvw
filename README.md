@@ -3,9 +3,10 @@ Interview Prep Resources
 
 [![GitHub stars](https://img.shields.io/github/stars/nafSadh/intvw-prep-res.svg?style=social&label=Stars)](https://github.com/nafSadh/intvw-prep-res)
 [![GitHub forks](https://img.shields.io/github/forks/nafsadh/intvw-prep-res.svg?style=social&label=Fork)](https://github.com/nafSadh/intvw-prep-res)
+![GitHub last commit](https://img.shields.io/github/last-commit/nafsadh/intvw-prep-res.svg)
 
 
-`> draft v0.5.1`
+`> draft v0.5.2`
 
 Preparing for software engineering interview needs time, attention and practice; and to help with that, there are many 
 resources sprinkled all over the internet and bookshelves. Some of them are wonderful and some of them are meh. Browsing
@@ -54,7 +55,7 @@ bit everyday.
  in a nutshell guide for every one. 
 
 - Ex-Googler, blogger **Steve Yegge**[↗](https://en.wikipedia.org/wiki/Steve_Yegge) wrote his famous note on how to 
- [get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is a bit dated, 
+ [**get that job at Google**](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is a bit dated, 
  but still remains relevant.
 
 - [**Get that job at Facebook**
@@ -277,6 +278,10 @@ for such interviews. Comes with a tie-in [blog post
  in collaboration with GATech; also part of Georgia Tech's Online Masters Degree (OMS) as CS6300. Lead by 
  [Alex Orso](https://scholar.google.com/citations?user=wCfYkMkAAAAJ&hl=en).
 
+- UIUC offers a [**Cloud Computing**](https://www.coursera.org/specializations/cloud-computing) specialization on 
+ Coursera. It has 5 courses, 2 on cloud computing concepts, 2 on applications of it, 1 on cloud network and one capstone
+ project. Looks interesting. A more succinct course could be better, but this offers more up to date understanding of 
+ this now growing field. 
 
 
 ## Coding Practice
