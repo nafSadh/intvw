@@ -67,6 +67,9 @@ bit everyday.
  discusses about two broad categories of software engineering interviews: (1) domain specific interviews and 
  (2) computer science fundamentals interviews.
  
+ - [**Crack the System Design interview**](https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26) -- tips 
+  from a Twitter software engineer.
+ 
 > Following articles, are not about how to ace an interview, but these are for the other side of the table; about how 
 to hire a good engineer.
 
@@ -121,6 +124,8 @@ following use cases:
   a) Prepare for a system design or open ended rounds. 
   b) Learn more about how large scale systems work and thought process of designing a new system."*
 -- Shashank Khare[↗](https://www.linkedin.com/in/shashank-khare-a685b224/).
+
+- Here is great [**pinboard** containing links to useful resources on **system design**](https://www.pinterest.com/farsanrashid/distributed-system/?lp=true), curated by Farsan Rashid. 
 
    
 
@@ -205,7 +210,8 @@ for such interviews. Comes with a tie-in [blog post
 #### Interview Prep Books
 
 - Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) 🌟 *[CTCI]* 
- by Gayle Laakmann McDowell and probably you would be benefited from it too. 
+ by Gayle Laakmann McDowell and probably you would be benefited from it too. Solutions are posted on 
+ [Github](https://github.com/careercup/ctci) in several languages. 
 
 - [Programming Interviews Exposed](http://a.co/d/67c44hm) *[PI-Exposed]* by John Mongan et al. is a very basic book 
  for people who are totally uninitiated. If *CTCI* seems difficult for you, you can pick this up to build some 
@@ -357,6 +363,32 @@ for such interviews. Comes with a tie-in [blog post
 - Both *CTCI* and *PI-Exposed* have very good sections on resume. Look at them. 
 
 
+
+## Official Guides
+> Software industry is probably that odd industry where they reveal all secrets about their interview process. 
+> Most large companies have standardized their interview process so much so that, and they want interviewees to succeed
+so much that they actively generate and provide prep materials.
+
+#### Facebook
+- [Preparing for your Software Engineering Interview at Facebook
+](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/)
+- [Code Lab](https://codelab.interviewbit.com/) -- coding practice arena made in collaborarion with InterviewBit.   
+- [Preparing for Your Instagram Interview](https://www.facebook.com/careers/life/preparing-for-your-instagram-interview)
+- [CS50 Lecture by Mark Zuckerberg](https://www.youtube.com/watch?v=xFFs9UgOAlE) -- Given in 2005 at Harvard as guest 
+  lecture. 
+
+#### Google 
+- [How We Hire](https://careers.google.com/how-we-hire/)
+- [How to: Work at Google — Candidate Coaching Session for Technical 
+  Interviewing](https://www.youtube.com/watch?v=oWbUtlUhwa8) -- YouTube video from 2012.
+- [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/) -- not specifically for interview.
+
+#### Medium 
+- [Medium’s engineering interview process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4)
+
+#### Palantir
+- [Interview Process](https://www.palantir.com/getting-hired/) -- guide on getting hired
+- [How to Ace a Systems Design Interview](https://www.palantir.com/how-to-ace-a-systems-design-interview/) -- article.
 
 ## Even if you are not interviewing
 > Since you are here, and I got you reading this far, I am going to share some of my favorite resources. These do not 
