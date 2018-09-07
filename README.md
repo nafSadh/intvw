@@ -35,6 +35,7 @@ bit everyday.
 - [Mock Interview](#mock-interview)
 - [Cheat sheets](#cheat-sheets)
 - [On Résumé](#on-résumé)
+- [Official Guides](#official-guides)
 - [Even if you are not interviewing](#even-if-you-are-not-interviewing)
 - [More Stuff](#random-links)
 
@@ -389,6 +390,9 @@ so much that they actively generate and provide prep materials.
 #### Palantir
 - [Interview Process](https://www.palantir.com/getting-hired/) -- guide on getting hired
 - [How to Ace a Systems Design Interview](https://www.palantir.com/how-to-ace-a-systems-design-interview/) -- article.
+
+
+
 
 ## Even if you are not interviewing
 > Since you are here, and I got you reading this far, I am going to share some of my favorite resources. These do not 
