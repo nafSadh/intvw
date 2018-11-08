@@ -421,6 +421,7 @@ so much that they actively generate and provide prep materials.
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 - [~~The ultimate~~ guide to acing your technical interview](https://learntocodewith.me/posts/technical-interview/) 
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+- [5 things you need to know …](https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b)
 
 
 
