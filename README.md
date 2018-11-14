@@ -257,6 +257,8 @@ for such interviews. Comes with a tie-in [blog post
  [Part I](https://www.coursera.org/learn/algorithms-part1) and 
  [part II](https://www.coursera.org/learn/algorithms-part2).
  
+ - Grow Your Technical Skills [**with Google**](https://techdevguide.withgoogle.com/)
+ 
 
 
 ### Interview Prep Courses
