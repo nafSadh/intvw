@@ -6,7 +6,7 @@ Interview Prep Resources
 ![GitHub last commit](https://img.shields.io/github/last-commit/nafsadh/intvw-prep-res.svg)
 
 
-`> draft v0.5.2`
+`> draft v0.5.3`
 
 Preparing for software engineering interview needs time, attention and practice; and to help with that, there are many 
 resources sprinkled all over the internet and bookshelves. Some of them are wonderful and some of them are meh. Browsing
@@ -279,6 +279,8 @@ for such interviews. Comes with a tie-in [blog post
 
 - [**Interview Cake**](https://www.interviewcake.com/table-of-contents) -- this is money-back guarantee freemium 
  interactive course. The reading materials are free, but interactive problem solving steps are not. 
+ 
+- [**Hired in Tech**](https://www.hiredintech.com/classrooms/algorithm-design/lesson/77) -- Algorithm design 
 
 
 ### Design & Development
