@@ -9,4 +9,4 @@ My Reading Log
 
 
 ###### TODO
--[ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
+- [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
