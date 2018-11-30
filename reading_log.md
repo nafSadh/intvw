@@ -6,7 +6,7 @@ My Reading Log
  - [Cram List](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score) - seriously? 
  - Negotn [article](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) · [service](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
 - [↻] DCP 3 - de/serialize bin tree 
-- [↻] DCP 4 - first missing positive integer [gfg](https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)
+- [↻] DCP 4 - first missing positive integer · [gfg](https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)
 
 
 ###### TODO
