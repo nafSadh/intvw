@@ -11,6 +11,7 @@ My Reading Log
 
 2018.12
 - [A success story on Reddit](https://www.reddit.com/r/cscareerquestions/comments/8235gs/got_my_dream_job_offer_thanks_to_this_sub_tips/)
+- [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&t=3615s) - UChicago Leadership Lab, Larry McEnerney
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
