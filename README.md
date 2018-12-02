@@ -158,6 +158,7 @@ following use cases:
 
 ### Book List
 > Following are some books I studied or vetted and are in my to-read list.
+See also: [r/cscareerquestions/wiki/faq_books](https://www.reddit.com/r/cscareerquestions/wiki/faq_books)
 
 #### Algorithms and data structures
 
