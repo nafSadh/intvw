@@ -9,5 +9,8 @@ My Reading Log
 - [↻] DCP 4 - first missing positive integer · [gfg](https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)
 
 
+2018.12
+- [A success story on Reddit](https://www.reddit.com/r/cscareerquestions/comments/8235gs/got_my_dream_job_offer_thanks_to_this_sub_tips/)
+
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
