@@ -18,3 +18,8 @@ My Reading Log
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
 - [ ] [r on how to prep](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [ ] [interviewkickstart curriculum](https://www.interviewkickstart.com/curriculum)
+- [ ] [Gentle intro to complexity analysis](http://discrete.gr/complexity/)
+
+
+###### Ref
+- [Big O Cheatsheet](http://bigocheatsheet.com/)
