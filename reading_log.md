@@ -13,6 +13,8 @@ My Reading Log
 - [A success story on Reddit](https://www.reddit.com/r/cscareerquestions/comments/8235gs/got_my_dream_job_offer_thanks_to_this_sub_tips/)
 - [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&t=3615s) - UChicago Leadership Lab, Larry McEnerney
 - [Suffix Tree and other adv string d.s.](https://www.youtube.com/watch?v=F3nbY3hIDLQ&t=3328s) - Erik Damien
+- [Max sum of non-adj nums](http://blog.gainlo.co/index.php/2016/12/02/uber-interview-question-maximum-sum-non-adjacent-elements/)
+
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
