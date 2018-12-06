@@ -14,6 +14,11 @@ My Reading Log
 - [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&t=3615s) - UChicago Leadership Lab, Larry McEnerney
 - [Suffix Tree and other adv string d.s.](https://www.youtube.com/watch?v=F3nbY3hIDLQ&t=3328s) - Erik Damien
 - DCP 9 · [Max sum of non-adj nums](http://blog.gainlo.co/index.php/2016/12/02/uber-interview-question-maximum-sum-non-adjacent-elements/) · on Gainlo
+- Dynamic Programming
+ - Prof. [Jeff Erickson - L5](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/05-dynprog.pdf), UIUC -- ongoing
+ - [TC Article](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/) -- to follow up
+ - [Refdash](http://blog.refdash.com/dynamic-programming-tutorial-example/) -- to follow up
+ - [CodeChef](https://www.codechef.com/wiki/tutorial-dynamic-programming#Practice_Problems) -- to follow up
 
 
 ###### TODO
