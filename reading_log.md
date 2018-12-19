@@ -21,7 +21,7 @@ My Reading Log
   - [CodeChef](https://www.codechef.com/wiki/tutorial-dynamic-programming#Practice_Problems) -- to follow up
 
 - [Insert into cyclic sorted l-list](https://articles.leetcode.com/insert-into-a-cyclic-sorted-list/) -- LC blog
-
+- [Yet another personal experience](https://www.reddit.com/r/cscareerquestions/comments/7vke9e/my_story_from_0_to_210/)
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
