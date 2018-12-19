@@ -19,7 +19,8 @@ My Reading Log
   - [TC Article](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/) -- to follow up
   - [Refdash](http://blog.refdash.com/dynamic-programming-tutorial-example/) -- to follow up
   - [CodeChef](https://www.codechef.com/wiki/tutorial-dynamic-programming#Practice_Problems) -- to follow up
-  - [Insert into cyclic sorted l-list](https://articles.leetcode.com/insert-into-a-cyclic-sorted-list/) -- LC blog
+
+- [Insert into cyclic sorted l-list](https://articles.leetcode.com/insert-into-a-cyclic-sorted-list/) -- LC blog
 
 
 ###### TODO
