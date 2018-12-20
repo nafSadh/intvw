@@ -22,6 +22,7 @@ My Reading Log
 
 - [Insert into cyclic sorted l-list](https://articles.leetcode.com/insert-into-a-cyclic-sorted-list/) -- LC blog
 - [Yet another personal experience](https://www.reddit.com/r/cscareerquestions/comments/7vke9e/my_story_from_0_to_210/)
+- [↻] DCP 25 -- Kleene star string matching [LC 10](https://leetcode.com/problems/regular-expression-matching/solution/)
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
