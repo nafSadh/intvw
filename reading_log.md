@@ -29,6 +29,7 @@ My Reading Log
 - [ ] [r on how to prep](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [ ] [interviewkickstart curriculum](https://www.interviewkickstart.com/curriculum)
 - [ ] [Gentle intro to complexity analysis](http://discrete.gr/complexity/)
+- [ ] [G4G Top Algo+DS](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 
 
 ###### Ref
