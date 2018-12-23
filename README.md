@@ -40,6 +40,7 @@ bit everyday.
 - [More Stuff](#random-links)
 
 
+
 <p align="center"> 
   <br/>
   <img src="https://imgs.xkcd.com/comics/job_interview.png"><br/>
@@ -399,6 +400,9 @@ so much that they actively generate and provide prep materials.
 
 
 
+## Bookmarks
+- http://bigocheatsheet.com/
+
 
 ## Even if you are not interviewing
 > Since you are here, and I got you reading this far, I am going to share some of my favorite resources. These do not 
@@ -429,11 +433,10 @@ so much that they actively generate and provide prep materials.
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 - [5 things you need to know …](https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b)
 
-
-
  
 <br/>
 <hr/>
+
 
 > 2018 © nafSadh  
 > Maintained on [GitHub](https://github.com/nafSadh/intvw-prep-res) by [nafSadh](http://nafSadh.com).   
