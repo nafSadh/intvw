@@ -24,6 +24,7 @@ My Reading Log
 - [Yet another personal experience](https://www.reddit.com/r/cscareerquestions/comments/7vke9e/my_story_from_0_to_210/)
 - [↻] DCP 25 -- Kleene star string matching [LC 10](https://leetcode.com/problems/regular-expression-matching/solution/)
 - [Pramp DS&A how to](https://blog.pramp.com/how-to-succeed-in-data-structures-and-algorithms-interview-2ad1a28041b6)
+- [Soft questions](https://www.indeed.com/hire/interview-questions/software-engineer)
 
 
 ###### TODO
@@ -32,6 +33,8 @@ My Reading Log
 - [ ] [interviewkickstart curriculum](https://www.interviewkickstart.com/curriculum)
 - [ ] [Gentle intro to complexity analysis](http://discrete.gr/complexity/)
 - [ ] [G4G Top Algo+DS](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+- [ ] [Code Kata](http://codekata.com/kata/codekata-intro/)
+- [ ] [Python API Time Complexity](https://wiki.python.org/moin/TimeComplexity)
 
 
 ###### Ref

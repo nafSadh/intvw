@@ -36,6 +36,7 @@ bit everyday.
 - [Cheat sheets](#cheat-sheets)
 - [On Résumé](#on-résumé)
 - [Official Guides](#official-guides)
+- [Bookmarks](#bookmarks)
 - [Even if you are not interviewing](#even-if-you-are-not-interviewing)
 - [More Stuff](#random-links)
 
@@ -372,6 +373,10 @@ for such interviews. Comes with a tie-in [blog post
 
 
 
+## Soft Skills
+- [7 Software Engineer Interview Questions and Answers](https://www.indeed.com/hire/interview-questions/software-engineer)
+- [Software engineer interview questions](https://resources.workable.com/software-engineer-interview-questions)
+
 ## Official Guides
 > Software industry is probably that odd industry where they reveal all secrets about their interview process. 
 > Most large companies have standardized their interview process so much so that, and they want interviewees to succeed
@@ -402,6 +407,14 @@ so much that they actively generate and provide prep materials.
 
 ## Bookmarks
 - http://bigocheatsheet.com/
+- https://www.youtube.com/watch?v=PJKYqLP6MRE
+- https://codelab.interviewbit.com/dashboard/
+- https://techdevguide.withgoogle.com/paths/advanced/
+
+
+## From Reddit
+- https://www.reddit.com/r/cscareerquestions/comments/n5spv/getting_a_job_in_software_development_a_reddit/
+- https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/
 
 
 ## Even if you are not interviewing
