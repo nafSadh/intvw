@@ -25,6 +25,7 @@ My Reading Log
 - [↻] DCP 25 -- Kleene star string matching [LC 10](https://leetcode.com/problems/regular-expression-matching/solution/)
 - [Pramp DS&A how to](https://blog.pramp.com/how-to-succeed-in-data-structures-and-algorithms-interview-2ad1a28041b6)
 - [Soft questions](https://www.indeed.com/hire/interview-questions/software-engineer)
+- [Arbitrage opportunity with Bellman-Ford](https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/)
 
 
 ###### TODO
