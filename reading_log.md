@@ -27,6 +27,8 @@ My Reading Log
 - [Soft questions](https://www.indeed.com/hire/interview-questions/software-engineer)
 - [Arbitrage opportunity with Bellman-Ford](https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/)
 
+2018.Fin 
+- [My Goodreads 2018](https://www.goodreads.com/user/year_in_books/2018/41508510)
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
