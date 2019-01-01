@@ -30,6 +30,9 @@ My Reading Log
 2018.Fin 
 - [My Goodreads 2018](https://www.goodreads.com/user/year_in_books/2018/41508510)
 
+2019.01
+
+
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
 - [ ] [r on how to prep](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
