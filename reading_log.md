@@ -31,6 +31,7 @@ My Reading Log
 - [My Goodreads 2018](https://www.goodreads.com/user/year_in_books/2018/41508510)
 
 2019.01
+- [On notebooks](https://lauralisscott.com/2017-bullet-journal-comparison-leuchtturm-rhodia-midori-muji-northbooks-moleskine/)
 
 
 ###### TODO
