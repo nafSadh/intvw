@@ -42,6 +42,7 @@ My Reading Log
 - [ ] [G4G Top Algo+DS](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 - [ ] [Code Kata](http://codekata.com/kata/codekata-intro/)
 - [ ] [Python API Time Complexity](https://wiki.python.org/moin/TimeComplexity)
+- [ ] [Kleppman talks](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/playlists) -- _Author of Designing Data Int. Apps_ book
 
 
 ###### Ref
