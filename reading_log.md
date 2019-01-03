@@ -32,6 +32,7 @@ My Reading Log
 
 2019.01
 - [On notebooks](https://lauralisscott.com/2017-bullet-journal-comparison-leuchtturm-rhodia-midori-muji-northbooks-moleskine/)
+- [Breakout List](https://breakoutlist.com/)
 
 
 ###### TODO
