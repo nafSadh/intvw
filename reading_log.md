@@ -33,6 +33,7 @@ My Reading Log
 2019.01
 - [On notebooks](https://lauralisscott.com/2017-bullet-journal-comparison-leuchtturm-rhodia-midori-muji-northbooks-moleskine/)
 - [Breakout List](https://breakoutlist.com/)
+- [a generic backtracking subset approach](https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning))
 
 
 ###### TODO
