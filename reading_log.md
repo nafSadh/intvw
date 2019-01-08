@@ -34,7 +34,7 @@ My Reading Log
 - [On notebooks](https://lauralisscott.com/2017-bullet-journal-comparison-leuchtturm-rhodia-midori-muji-northbooks-moleskine/)
 - [Breakout List](https://breakoutlist.com/)
 - [a generic backtracking subset approach](https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning))
-
+- [Distributed Ledgers, Blockchains and Smart Contracts](https://www.youtube.com/watch?v=s27jeiggtIU)
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
