@@ -26,6 +26,7 @@ My Reading Log
 - [Pramp DS&A how to](https://blog.pramp.com/how-to-succeed-in-data-structures-and-algorithms-interview-2ad1a28041b6)
 - [Soft questions](https://www.indeed.com/hire/interview-questions/software-engineer)
 - [Arbitrage opportunity with Bellman-Ford](https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/)
+- [Amazon Leadership](https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d)
 
 2018.Fin 
 - [My Goodreads 2018](https://www.goodreads.com/user/year_in_books/2018/41508510)
@@ -35,6 +36,10 @@ My Reading Log
 - [Breakout List](https://breakoutlist.com/)
 - [a generic backtracking subset approach](https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning))
 - [Distributed Ledgers, Blockchains and Smart Contracts](https://www.youtube.com/watch?v=s27jeiggtIU)
+- [10 Lessons I Learned as a Software Engineering Interviewer](https://medium.com/p/87cf1d6f884c)
+- [Haseeb Q.](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+- [JS intvw ques](https://www.toptal.com/javascript/interview-questions)
+- [LRU w/ doubly linked list and hashed maps](https://medium.com/@krishankantsinghal/my-first-blog-on-medium-583159139237)
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
