@@ -40,6 +40,9 @@ My Reading Log
 - [Haseeb Q.](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 - [JS intvw ques](https://www.toptal.com/javascript/interview-questions)
 - [LRU w/ doubly linked list and hashed maps](https://medium.com/@krishankantsinghal/my-first-blog-on-medium-583159139237)
+- Hoisting in JS
+  - [Hoisting - MDN entry](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+  - [JS var and fn hoisting](http://adripofjavascript.com/blog/drips/variable-and-function-hoisting.html)
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
