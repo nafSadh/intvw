@@ -10,7 +10,8 @@ My Reading Log
 
 
 2018.12
-- [A success story on Reddit](https://www.reddit.com/r/cscareerquestions/comments/8235gs/got_my_dream_job_offer_thanks_to_this_sub_tips/)
+- Success storie on Reddit: [A](https://www.reddit.com/r/cscareerquestions/comments/8235gs/got_my_dream_job_offer_thanks_to_this_sub_tips/)
+ [B](https://www.reddit.com/r/cscareerquestions/comments/9dru7n/official_salary_sharing_thread_for_experienced/e5kc1ow/)
 - [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&t=3615s) - UChicago Leadership Lab, Larry McEnerney
 - [Suffix Tree and other adv string d.s.](https://www.youtube.com/watch?v=F3nbY3hIDLQ&t=3328s) - Erik Damien
 - DCP 9 · [Max sum of non-adj nums](http://blog.gainlo.co/index.php/2016/12/02/uber-interview-question-maximum-sum-non-adjacent-elements/) · on Gainlo
