@@ -44,6 +44,7 @@ My Reading Log
 - Hoisting in JS
   - [Hoisting - MDN entry](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
   - [JS var and fn hoisting](http://adripofjavascript.com/blog/drips/variable-and-function-hoisting.html)
+  - [Haseeb](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) -- yet another job search guide
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
@@ -53,7 +54,9 @@ My Reading Log
 - [ ] [G4G Top Algo+DS](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 - [ ] [Code Kata](http://codekata.com/kata/codekata-intro/)
 - [ ] [Python API Time Complexity](https://wiki.python.org/moin/TimeComplexity)
-- [ ] [Kleppman talks](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/playlists) -- _Author of Designing Data Int. Apps_ book
+- [X] [Kleppman talks](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/playlists) -- _Author of Designing Data Int. Apps_ book
+- [ ] [Hired in Tech on Sys Design](https://www.hiredintech.com/system-design)
+- [ ] [Scalability Q&A](http://highscalability.com/all-time-favorites/)
 
 
 ###### Ref
