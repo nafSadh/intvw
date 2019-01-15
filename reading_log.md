@@ -44,7 +44,7 @@ My Reading Log
 - Hoisting in JS
   - [Hoisting - MDN entry](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
   - [JS var and fn hoisting](http://adripofjavascript.com/blog/drips/variable-and-function-hoisting.html)
-  - [Haseeb](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) -- yet another job search guide
+- [Haseeb](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) -- yet another job search guide
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
