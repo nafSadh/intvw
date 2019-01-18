@@ -46,6 +46,8 @@ My Reading Log
   - [JS var and fn hoisting](http://adripofjavascript.com/blog/drips/variable-and-function-hoisting.html)
 - [Haseeb](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) -- yet another job search guide
 - [↻] [Median of 2 sorted array ](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2496/Concise-JAVA-solution-based-on-Binary-Search) LC4, ln(m+n) like bin search 
+- [on Graphs](http://jeffe.cs.illinois.edu/teaching/algorithms/book/05-graphs.pdf) - UIUC Prof Jeff Erickson 
+
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
