@@ -47,6 +47,7 @@ My Reading Log
 - [Haseeb](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) -- yet another job search guide
 - [↻] [Median of 2 sorted array ](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2496/Concise-JAVA-solution-based-on-Binary-Search) LC4, ln(m+n) like bin search 
 - [on Graphs](http://jeffe.cs.illinois.edu/teaching/algorithms/book/05-graphs.pdf) - UIUC Prof Jeff Erickson 
+- [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
 
 
 ###### TODO
@@ -58,7 +59,7 @@ My Reading Log
 - [ ] [Code Kata](http://codekata.com/kata/codekata-intro/)
 - [ ] [Python API Time Complexity](https://wiki.python.org/moin/TimeComplexity)
 - [X] [Kleppman talks](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/playlists) -- _Author of Designing Data Int. Apps_ book
-- [ ] [Hired in Tech on Sys Design](https://www.hiredintech.com/system-design)
+- [X] [Hired in Tech on Sys Design](https://www.hiredintech.com/system-design)
 - [ ] [Scalability Q&A](http://highscalability.com/all-time-favorites/)
 
 
