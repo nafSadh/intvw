@@ -48,6 +48,7 @@ My Reading Log
 - [↻] [Median of 2 sorted array ](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2496/Concise-JAVA-solution-based-on-Binary-Search) LC4, ln(m+n) like bin search 
 - [on Graphs](http://jeffe.cs.illinois.edu/teaching/algorithms/book/05-graphs.pdf) - UIUC Prof Jeff Erickson 
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
+- [Skyline Problem](https://briangordon.github.io/2014/08/the-skyline-problem.html)
 
 
 ###### TODO
