@@ -50,6 +50,8 @@ My Reading Log
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
 - [Skyline Problem](https://briangordon.github.io/2014/08/the-skyline-problem.html), related [code sample](https://leetcode.com/problems/the-skyline-problem/discuss/61211/Java-570ms-Heap%2BBST-and-430ms-Divide-and-Conquer-Solution-with-Explanation)
 - [H1B salary data](https://h1bdata.info/)
+- [Guide for Sys Design Intvw](https://www.teamblind.com/article/A-guide-to-preparing-for-the-system-designarchitecture-interview-GzXOL8EL)
+
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
