@@ -52,6 +52,8 @@ My Reading Log
 - [H1B salary data](https://h1bdata.info/)
 - [Guide for Sys Design Intvw](https://www.teamblind.com/article/A-guide-to-preparing-for-the-system-designarchitecture-interview-GzXOL8EL)
 
+2019.02
+- [Triplebyte certified Generalist Software Engineer](https://triplebyte.com/certificate/KKhrz2Q)
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
