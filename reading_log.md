@@ -55,6 +55,7 @@ My Reading Log
 2019.02
 - [Triplebyte certified Generalist Software Engineer](https://triplebyte.com/certificate/KKhrz2Q)
 - [Werner Vogels on Scalability](https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
+- [The last stretch](https://quip.com/2UKIAhvKyZf0)
 
 ###### TODO
 - [ ] [priority Q in Java](https://algs4.cs.princeton.edu/24pq/) a.k.a. heaps in real life
