@@ -7,6 +7,7 @@
 - [ ] `REC` Recursion
 - [ ] `DP`  Dynamic Programming, also rec with memo
 - [ ] `SW`  Sliding Window
+- [ ] `BAK` Back Tracking
 
 
 ### Topics

@@ -72,3 +72,7 @@ My Reading Log
 
 ###### Ref
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
+- [My list of Sys Design resources](https://docs.google.com/document/d/e/2PACX-1vTA6nmMMCIlE1Etw-Vu2WDM6XvEnbkRDhF8Hg4DpyMFSvov3tKUf2nFBWVg5GWxYzwZPoRDdZo2AaX1/pub)
+
+# Books to buy
+- [Manning on Micro services](https://www.manning.com/books/the-tao-of-microservices)
