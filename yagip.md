@@ -19,7 +19,7 @@ but realistically I don't expect questions from these topics
  
 
 
-### Foreword 
+## Foreword 
 I compiled a interview prep resources list in Fall of 2018. I was not interviewing 
 back then, some of my friends were, and I thought I might start accepting interview 
 requests later on. I have interviewed with some big names before, but everything 
@@ -31,7 +31,7 @@ writing it down, mostly for my own record. If it turns out to be helpful to
 someone else, then that is a plus.
 
 
-### Mindset and approach
+## Mindset and approach
 Having a right mindset is helpful. What is right for you may be different from 
 someone else. But, invariably do these:
 
@@ -42,7 +42,7 @@ someone else. But, invariably do these:
 - Always thrive to better yourself
 
 
-### Role
+## Role
 I am a software engineer, and this note is for interviewing as for 
 software engineering roles. Titles vary; but usually:
 - Software Engineer
@@ -51,7 +51,7 @@ software engineering roles. Titles vary; but usually:
 Often shortened as SE, SWE, SDE etc. For more info visit [level.fyi](http://level.fyi)
 
 
-### Things to focus on
+## Things to focus on
 As a software engineer you need to focus on the following things:
 
 - Your profile (LinkedIn and resume) 
@@ -65,7 +65,7 @@ As a software engineer you need to focus on the following things:
 - Making a decision
 
 
-### Profile
+## Profile
 Resume is a important thing for applying. But, today, LinkedIn is the most important
 form of profile. So, try to polish your LinkedIn profile. Do not add fake info. 
 Remove stale info. Proudly showcase what you have done. You have more room to 
@@ -79,7 +79,7 @@ Resumes should be strictly one page, should have your contact info and list your
 relevant jobs and education. Read CSCQ FAQ on [resume](https://www.reddit.com/r/cscareerquestions/wiki/index#wiki_resumes) and utilize their threads on [resume review](https://www.reddit.com/r/cscareerquestions/search?q=Resume+Advice+Thread&restrict_sr=on&sort=new&t=all).
 
 
-### Your Story
+## Your Story
 - What is your elevator pitch? 
 - How can you introduce yourself to me in less than five minutes. 
 - Can you tell me about you in 15-20 minutes?
@@ -100,12 +100,12 @@ those decisions etc.
 Know thyself. 
 
 
-### DS+Algo
+## DS+Algo
 Understanding most used data structures and algorithms is a must. Depending on
 how fresh is your knowledge, you may benefit from reading on them. Make sure that
 you understand most of the following:
 
-#### Topics
+### Topics
 ###### DS 
 - Arrays, Collections, Dynamic Arrays, Direct Access
 - Linked Lists, Doubly LL, Circular LL 
@@ -143,7 +143,7 @@ Floyd Wasrhall etc.
 - Space and time complexity (Big O notations) 📃 [complexity↗](https://discrete.gr/complexity/)
 - NP hard, NP complete 🕶 
 
-#### Study
+### Study Material
 > Everyone has their own style of studying. So, adopt it for yourself. 
 
 These are some books that I have found useful in the past:
