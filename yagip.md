@@ -172,11 +172,12 @@ now converted into a book. I focused on chapters: 3 to 8
   
   
   
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-fin
+
+ 
+<br/>
+<hr/>
+
+
+> 2019 © nafSadh  
+> Maintained on [GitHub](https://github.com/nafSadh/intvw-prep-res) by [nafSadh](http://nafSadh.com).   
+> Please report issues and add suggestions [here](https://github.com/nafSadh/notes/projects/1).  
