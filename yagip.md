@@ -4,21 +4,21 @@ YAGIP
 
 
 ## Foreword 
-I compiled a interview prep resources list in Fall of 2018. That was a pre-cursor
+I compiled a list of interview prep resources in Fall of 2018. That was a pre-cursor
 to my interview preparation. Now, after I am somewhat done with this, I decided 
-to write down this note do document how I prepared and hopefully this might help
+to write down this note to document how I prepared and hopefully this might help
 others. 
 
 I have interviewed with some big names before, but everything  did not go as 
 planned at those on-site interviews. This time I realized, I need to change my 
 approach. 
 
-I read a lot of interview prep guides and used a lot  of wonderful  resources and made a plan. 
-A fundamental change I made is that I realized, preparing for interviews
-is not the same as studying for algorithms course. In addition, I did not interview
+I read some interview prep guides and looked at some wonderful  resources and made a plan. 
+A fundamental change I made is that I realized, *preparing for interviews
+is not the same as studying for algorithms course*. In addition, I did not interview
 with just one company at once, I started preparing and started accepting interview 
-request. Actively seeked out for opportunities and then I started interviewing at
-different companies. Nailed most of it, but not all of them. 
+requests. In addition, I actively seeked out for some opportunities and then I 
+started interviewing at different companies. Nailed most of it, but not all of them. 
 
 In my honest opinion, there is no point in writing 
 yet another guide on interview prep (abbr. YAGIP); 
@@ -29,12 +29,12 @@ to  someone else, then that is a plus.
 ## Table of Contents
 - [Mindset and approach](#mindset-and-approach)
 - [Role](#role)
-- [Things to focus on](things-to-focus-on)
-- [Your Profile](your-profile)
-- [Your Story](your-story)
-- [Data Structures and Algorithms](dsalgo)
-  - [Topics](dsalgo-topics)
-  - [Study Material](dsalgo-study-material)
+- [Things to focus on](#things-to-focus-on)
+- [Your Profile](#your-profile)
+- [Your Story](#your-story)
+- [Data Structures and Algorithms](#dsalgo)
+  - [Topics](#dsalgo-topics)
+  - [Study Material](#dsalgo-study-material)
   
 
 ###### abbr.
