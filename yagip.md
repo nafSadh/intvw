@@ -4,24 +4,23 @@ YAGIP
 
 I compiled a list of interview prep resources in Fall of 2018. That was a pre-cursor
 to my interview preparation. Now, after I am somewhat done with this, I decided 
-to write down this note to document how I prepared and hopefully this might help
-others. 
+to write down this note to document how I prepared.
 
 I have interviewed with some big names before, but everything  did not go as 
 planned at those on-site interviews. This time I realized, I need to change my 
 approach. 
 
-I read some interview prep guides and looked at some wonderful  resources and made a plan. 
-A fundamental change I made is that I realized, *preparing for interviews
-is not the same as studying for algorithms course*. In addition, I did not interview
-with just one company at once, I started preparing and started accepting interview 
-requests. In addition, I actively seeked out for some opportunities and then I 
+I read some interview prep guides and looked at some wonderful  resources and made 
+a plan. A fundamental change I made is that I realized, *preparing for interviews
+is not the same as studying for algorithms courses*. In addition, I did not interview
+with just one company at once. After I started preparing, I started accepting interview 
+requests and in addition, I actively seeked out for some opportunities. Then I 
 started interviewing at different companies. Nailed most of it, but not all of them. 
 
 In my honest opinion, there is no point in writing 
-yet another guide on interview prep (abbr. YAGIP); 
-but I am  scribing it down, mostly for my own record. If it turns out to be useful 
-to  someone else, then that is a plus.
+_**yet another guide on interview prep**_ (abbr. YAGIP); 
+but I am  scribing it down, mostly for my own record. If it turns out to be 
+helpful to someone else, then that is a plus.
 
 
 ## Table of Contents
@@ -32,8 +31,8 @@ to  someone else, then that is a plus.
 - [Your Story](#your-story)
 - [Data Structures and Algorithms](#dsalgo)
   - [Topics](#dsalgo-topics)
-  - [Study Material](#dsalgo-study-material)
-  
+  - [Reading Materials](#dsalgo-reading-materials)
+- [Hacking the Coding Interview](#coding)  
 
 ###### abbr.
 I am using following abbreviations in this document:
@@ -62,13 +61,17 @@ someone else. But, invariably do these:
 
 
 ## Role
-I am a software engineer, and this note is for interviewing as for 
+I am a software engineer, and this note is about interviewing for 
 software engineering roles. Titles vary; but usually:
 - Software Engineer
 - Software Development Engineer
 
 Often shortened as SE, SWE, SDE etc. For more info visit [level.fyi](http://level.fyi)
+And there would be a lot of qualifiers; e.g.: Senior SE/SDE/SWE, Staff ~.
+Also manager roles may be titled as: Software Engineering Manager, 
+Engineering Manager, Director of Engineering etc. 
 
+I am not a manager or tech leader yet. So, take this with some grains of salt. 
 
 ## Things to focus on
 As a software engineer you need to focus on the following things:
@@ -85,7 +88,7 @@ As a software engineer you need to focus on the following things:
 
 
 ## Your Profile
-Resume is a important thing for applying. But, today, LinkedIn is the most important
+Resume is important for job search. But, today, LinkedIn is the most important
 form of profile. So, try to polish your LinkedIn profile. Do not add fake info. 
 Remove stale info. Proudly showcase what you have done. You have more room to 
 list all of your achievements, voluntary works and what not. For each role, also
@@ -164,7 +167,7 @@ Floyd Wasrhall etc.
     [big-O c/s](http://bigocheatsheet.com/)
 - NP hard, NP complete 🕶 
 
-### DS+Algo Study Material
+### DS+Algo Reading Materials
 > Everyone has their own style of studying. So, adopt it for yourself. 
 
 These are some books that I have found useful in the past:
@@ -188,8 +191,39 @@ now converted into a book. I focused on chapters: 3 to 8
 - [Arbitrage opportunity with Bellman-Ford](https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/)
 
 
-  
-  
+ 
+## Coding
+> _**Hacking the Coding Interview**_  
+
+I'd be honest with you. Coding interview can feel like playing Russian roulette.
+You are expected to solve some problem, come up with an algorithm and code it 
+within some time constraint. This can feel challenging. But, with practice, you 
+can get better at it. 
+
+Preparing for coding interview is often colloquially known as *leetcoding*. This
+is because [LeetCode](http://leetcode.com) is the ubiquitous resource that almost
+everyone uses for preparations. 
+
+Let us talk about types of coding interviews. The goal of coding interview is to
+test you ability to produce useful code. That is what you are primarily being 
+hired for. So it makes total sense to test these skill. There some common formats
+of coding interviews
+- **Classic LC style** interviews: This is the most common format of coding 
+interview. Your interviewer will ask you some LC style question and you are 
+expected to solve it in 10-50 minutes based on the difficulty of the problem. 
+These sessions are usually 45-60 minutes long. Of these, 10-15 are set aside for 
+intro and wrap up. That means, you have 30-45 minutes to answer their questions. 
+I have seen people asking questions straight from LeetCode; but I have also seen
+questions that cannot be directly mapped to a LC question. 
+Usually you are expected to solve one LC medium or LC hard question in 30-40 
+minutes. Some time the interviewer might start with a warm up LC easy question
+that you should be able to solve under 10 minutes and then there would be a 
+following LC medium question. In a sixty minute interview, you are usually 
+expected to solve two LC medium problems. Facebook expects you to solve two 
+LC mediums during their 45 minute interview (so realistically one medium problem
+under 19 minutes).
+
+- **
   
 
  
