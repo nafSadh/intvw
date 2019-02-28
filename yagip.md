@@ -105,7 +105,7 @@ Understanding most used data structures and algorithms is a must. Depending on
 how fresh is your knowledge, you may benefit from reading on them. Make sure that
 you understand most of the following:
 
-### Topics
+### DA+Algo Topics
 ###### DS 
 - Arrays, Collections, Dynamic Arrays, Direct Access
 - Linked Lists, Doubly LL, Circular LL 
@@ -140,10 +140,12 @@ Floyd Wasrhall etc.
 
 
 ###### Related concepts
-- Space and time complexity (Big O notations) 📃 [complexity↗](https://discrete.gr/complexity/)
+- Space and time complexity (Big O notations) 
+    📃 [complexity](https://discrete.gr/complexity/), 
+    [big-O c/s](http://bigocheatsheet.com/)
 - NP hard, NP complete 🕶 
 
-### Study Material
+### DS+Algo Study Material
 > Everyone has their own style of studying. So, adopt it for yourself. 
 
 These are some books that I have found useful in the past:
@@ -152,11 +154,19 @@ These are some books that I have found useful in the past:
 - [Skiena](http://www.algorist.com/) -- design manual, I keep it on my desk
 - [DVP](http://cseweb.ucsd.edu/~dasgupta/book/index.html) -- Dasgupta _et al_; ([↗pdf](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf))
 
-But, this time I used the following resources to brush up my understanding of algorithms 
+But, this time I used following resources to brush up my understanding of algorithms 
 
 - **💎[Jeff Erickson](http://algorithms.wtf)** -- lecture notes by an UIUC prof, 
 now converted into a book. I focused on chapters: 3 to 8
-
+- [Lecture on Perfect Hashing](https://www.youtube.com/watch?v=N0COwN14gt0&list=PLcwzLgwZyB41YgCGN1LFO-7wsg8Qh6-gp&index=2) by Prof. David R. Karger, MIT
+- [Suffix Tree and other adv string d.s.](https://www.youtube.com/watch?v=F3nbY3hIDLQ&t=3328s) - Erik Damien
+- [Max sum of non-adj nums](http://blog.gainlo.co/index.php/2016/12/02/uber-interview-question-maximum-sum-non-adjacent-elements/) · on Gainlo
+- Dynamic Programming
+  - [TopCoder Article](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+  - [Refdash](http://blog.refdash.com/dynamic-programming-tutorial-example/) 
+  - [CodeChef](https://www.codechef.com/wiki/tutorial-dynamic-programming#Practice_Problems)
+- Understanding sliding window on [Project Nayuki](https://www.nayuki.io/page/sliding-window-minimum-maximum-algorithm)
+- [Arbitrage opportunity with Bellman-Ford](https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/)
 
 
   
