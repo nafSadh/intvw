@@ -2,6 +2,8 @@ YAGIP
 =====
 #### Yet Another Guide on Interview Prep
 
+#### ⚠ I just started writing this note and it is not even a draft yet
+
 I compiled a list of interview prep resources in Fall of 2018. That was a pre-cursor
 to my interview preparation. Now, after I am somewhat done with this, I decided 
 to write down this note to document how I prepared.
