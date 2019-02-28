@@ -105,7 +105,7 @@ Understanding most used data structures and algorithms is a must. Depending on
 how fresh is your knowledge, you may benefit from reading on them. Make sure that
 you understand most of the following:
 
-##### Topics
+#### Topics
 ###### DS 
 - Arrays, Collections, Dynamic Arrays, Direct Access
 - Linked Lists, Doubly LL, Circular LL 
@@ -143,7 +143,7 @@ Floyd Wasrhall etc.
 - Space and time complexity (Big O notations) 📃 [complexity↗](https://discrete.gr/complexity/)
 - NP hard, NP complete 🕶 
 
-##### Study
+#### Study
 > Everyone has their own style of studying. So, adopt it for yourself. 
 
 These are some books that I have found useful in the past:
