@@ -143,7 +143,21 @@ Floyd Wasrhall etc.
 - Space and time complexity (Big O notations) 📃 [complexity↗](https://discrete.gr/complexity/)
 - NP hard, NP complete 🕶 
 
-##### How to study
+##### Study
+> Everyone has their own style of studying. So, adopt it for yourself. 
+
+These are some books that I have found useful in the past:
+- [Sedgewick](http://a.co/d/9cUnqJI) -- It was my favorite book in college
+- [CLRS](http://a.co/d/aVnF8Eu) -- *the* algorithm text book
+- [Skiena](http://www.algorist.com/) -- design manual, I keep it on my desk
+- [DVP](http://cseweb.ucsd.edu/~dasgupta/book/index.html) -- Dasgupta _et al_; ([↗pdf](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf))
+
+But, this time I used the following resources to brush up my understanding of algorithms 
+
+- **💎[Jeff Erickson](http://algorithms.wtf)** -- lecture notes by an UIUC prof, 
+now converted into a book. I focused on chapters: 3 to 8
+
+
 
   
   
