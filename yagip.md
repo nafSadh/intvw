@@ -3,6 +3,40 @@ YAGIP
 #### Yet Another Guide on Interview Prep
 
 
+## Foreword 
+I compiled a interview prep resources list in Fall of 2018. That was a pre-cursor
+to my interview preparation. Now, after I am somewhat done with this, I decided 
+to write down this note do document how I prepared and hopefully this might help
+others. 
+
+I have interviewed with some big names before, but everything  did not go as 
+planned at those on-site interviews. This time I realized, I need to change my 
+approach. 
+
+I read a lot of interview prep guides and used a lot  of wonderful  resources and made a plan. 
+A fundamental change I made is that I realized, preparing for interviews
+is not the same as studying for algorithms course. In addition, I did not interview
+with just one company at once, I started preparing and started accepting interview 
+request. Actively seeked out for opportunities and then I started interviewing at
+different companies. Nailed most of it, but not all of them. 
+
+In my honest opinion, there is no point in writing 
+yet another guide on interview prep (abbr. YAGIP); 
+but I am  scribing it down, mostly for my own record. If it turns out to be useful 
+to  someone else, then that is a plus.
+
+
+## Table of Contents
+- [Mindset and approach](#mindset-and-approach)
+- [Role](#role)
+- [Things to focus on](things-to-focus-on)
+- [Your Profile](your-profile)
+- [Your Story](your-story)
+- [Data Structures and Algorithms](dsalgo)
+  - [Topics](dsalgo-topics)
+  - [Study Material](dsalgo-study-material)
+  
+
 ###### abbr.
 I am using following abbreviations in this document:
 
@@ -16,19 +50,6 @@ I am using following abbreviations in this document:
 - 🌪 - these topic needs very advanced understanding, if you can learn about those then awesome, 
 but realistically I don't expect questions from these topics 
 - 🔍 - search
- 
-
-
-## Foreword 
-I compiled a interview prep resources list in Fall of 2018. I was not interviewing 
-back then, some of my friends were, and I thought I might start accepting interview 
-requests later on. I have interviewed with some big names before, but everything 
-did not go as planned at those on-site interviews. Hence, I thought, I need to 
-change my approach of preparing for interviews. I read a lot of interview prep
-guides and used a lot of wonderful resources. In my honest opinion, there is no
-point in writing yet another guide on interview prep (abbr. YAGIP); but I am 
-writing it down, mostly for my own record. If it turns out to be helpful to 
-someone else, then that is a plus.
 
 
 ## Mindset and approach
@@ -65,7 +86,7 @@ As a software engineer you need to focus on the following things:
 - Making a decision
 
 
-## Profile
+## Your Profile
 Resume is a important thing for applying. But, today, LinkedIn is the most important
 form of profile. So, try to polish your LinkedIn profile. Do not add fake info. 
 Remove stale info. Proudly showcase what you have done. You have more room to 
