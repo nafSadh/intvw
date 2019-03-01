@@ -2,7 +2,7 @@ YAGIP
 =====
 #### Yet Another Guide on Interview Prep
 
-#### ⚠ I just started writing this note and it is not even a draft yet
+### ⚠ I just started writing this note and it is not even a draft yet
 
 I compiled a list of interview prep resources in Fall of 2018. That was a pre-cursor
 to my interview preparation. Now, after I am somewhat done with this, I decided 
@@ -214,9 +214,11 @@ of coding interviews
 interview. Your interviewer will ask you some LC style question and you are 
 expected to solve it in 10-50 minutes based on the difficulty of the problem. 
 These sessions are usually 45-60 minutes long. Of these, 10-15 are set aside for 
-intro and wrap up. That means, you have 30-45 minutes to answer their questions. 
+intro and wrap up. That means, you have 30-45 minutes to answer their questions.
+<br/>
 I have seen people asking questions straight from LeetCode; but I have also seen
-questions that cannot be directly mapped to a LC question. 
+questions that cannot be directly mapped to a LC question.
+<br/>
 Usually you are expected to solve one LC medium or LC hard question in 30-40 
 minutes. Some time the interviewer might start with a warm up LC easy question
 that you should be able to solve under 10 minutes and then there would be a 
@@ -224,8 +226,32 @@ following LC medium question. In a sixty minute interview, you are usually
 expected to solve two LC medium problems. Facebook expects you to solve two 
 LC mediums during their 45 minute interview (so realistically one medium problem
 under 19 minutes).
+<br/>
+For phone screening you'd usually do this exercise on a shared online coding 
+environment like HackerRank, CoderPad etc. On an on-site, generally, you'd write
+code on a whiteboard, but don't be surprised if you are actually coding on paper
+or on a computer. 
 
-- **
+- **Pair Programming** interviews are becoming commonplace nowadays. Here you 
+usually get paired with one interviewer and solve a problem incrementally. 
+Instead of straight up LC style questions, you start by defining class or object
+models or data models for some problem. Ideally, these problems reflect real life
+scenario. You start with a simple scenario and gradually add more functionality 
+to it. On a 45-60 minute coding session, expect to have 4 parts and 1 bonus part
+of the problem.
+<br/>
+Think of this session as a rapid prototyping or proof of concept development. 
+Or think about coding during a hackathon. But. remember that, code cleanliness 
+and readability is crucial too.
+<br/>
+Don't be fooled by the term paired programming. You are supposed to come up with
+the algorithm and logic and design.
+<br/>
+In my humble opinion, being very good at LC mediums and wonderfully fast at your
+primary programming language helps you doing well in such interviews
+<br/>
+📃 Read more on: [Square blog](https://medium.com/square-corner-blog/ace-the-square-pairing-interview-1a886fec98be),
+[Dev.to](https://dev.to/sophiedebenedetto/pair-programming-for-interviewees-1eem)
   
 
  
