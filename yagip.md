@@ -15,9 +15,8 @@ approach.
 I read some interview prep guides and looked at some wonderful  resources and made 
 a plan. A fundamental change I made is that I realized, *preparing for interviews
 is not the same as studying for algorithms courses*. In addition, I did not interview
-with just one company at once. After I started preparing, I started accepting interview 
-requests and in addition, I actively seeked out for some opportunities. Then I 
-started interviewing at different companies. Nailed most of it, but not all of them. 
+with just one company at once. After I started preparing, I started scheduling interviews.
+Nailed most of it, but not all of them. 
 
 In my honest opinion, there is no point in writing 
 _**yet another guide on interview prep**_ (abbr. YAGIP); 
@@ -100,7 +99,10 @@ I do not know how valued recommendations and endorsements on LinkedIn are, but i
 is definitely nice to have those. 
 
 Resumes should be strictly one page, should have your contact info and list your
-relevant jobs and education. Read CSCQ FAQ on [resume](https://www.reddit.com/r/cscareerquestions/wiki/index#wiki_resumes) and utilize their threads on [resume review](https://www.reddit.com/r/cscareerquestions/search?q=Resume+Advice+Thread&restrict_sr=on&sort=new&t=all).
+relevant jobs and education. Read CSCQ FAQ on 
+[resume](https://www.reddit.com/r/cscareerquestions/wiki/index#wiki_resumes) 
+and utilize their threads on 
+[resume review](https://www.reddit.com/r/cscareerquestions/search?q=Resume+Advice+Thread&restrict_sr=on&sort=new&t=all).
 
 
 ## Your Story
@@ -253,7 +255,18 @@ primary programming language helps you doing well in such interviews
 📃 Read more on: [Square blog](https://medium.com/square-corner-blog/ace-the-square-pairing-interview-1a886fec98be),
 [Dev.to](https://dev.to/sophiedebenedetto/pair-programming-for-interviewees-1eem)
   
+- **Online coding challenge**s are often given to you for initial screening. You 
+would be given a link to some online IDE (HackerRank, AmCat etc.). When you start
+a session you'd see some timed challenges. You'd have to solve those challenges.
+Generally these problems are LC easy to medium. 
 
+- ⚠(don't) **Take home Project**: some companies tend to give you a project that you can 
+complete within some time. Generally these projects can take between 6-20 hours
+of your valuable time. Most experienced dev do not like taking such tests.
+This a horrendous approach, since it takes a lot of your time but doesn't cost 
+a penny to the company. So, they like giving out some projects. My personal take
+is, a interview process should cost proportional time on both end, otherwise such
+process is not a fair process. 
  
 <br/>
 <hr/>
