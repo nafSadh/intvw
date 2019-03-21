@@ -414,12 +414,38 @@ Think of these 45-60 minute pair programming sessions as rapid prototyping
 sessions.
 
 
+### Prepare for screening rounds
+
+Most companies screen their candidates before inviting them to on-site. Screening
+can be done using an online assessment (1-2hr) or a phone/video interview session 
+(~1hr).   
+*Some companies may want you to do longer online assessments or take home
+tests. Anything that involves more than 90 minutes of your time and zero minutes
+of your time is a big no.*
+
+**Online assessments** then will have some LC style easy to medium problems to
+solve. You are generally given a clear problem statement and an online coding 
+editor where you can write, run and test codes. Often they will provide 2-3 
+explained test cases and more than a few hidden test cases. Often you can run your
+code and know if all hidden cases passed. These will be done using platforms like
+HackerRank, AmCat etc. 
+
+**Phone interview** is just a single session of on-site interview. Generally they'd
+ask one-two LC style easy to medium questions, but some dark soul may also ask a
+hard problem. _(It is not difficult to solve a hard problem, just that the remote
+nature of the interview often cause technical issues and communication difficulties 
+which may eat up time necessary for a hard problem.)_ Some companies may conduct
+a remote pair programming session. Nothing to worry about either of these interviews.
+One thing to note, even though this round in colloquially known as phone interview
+(because originally it was conducted via telephone) it can utilize any remote 
+communication tool, including but not limited to telephone calls, Hangout/Skype
+etc. or other video conferencing (BlueJeans, Zoom) or online coding interview
+platforms (e.g. HackerRank, CoderPad etc.). 
 
 
-
-
-
-
+Since these rounds are similar to on-site coding interviews, preparing for it is 
+all the same. Just note that, if you found passing phone screening difficult, it 
+is advisable to take way more preparation before going to on-sites. 
 
 
 
