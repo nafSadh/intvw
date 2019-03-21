@@ -260,13 +260,205 @@ would be given a link to some online IDE (HackerRank, AmCat etc.). When you star
 a session you'd see some timed challenges. You'd have to solve those challenges.
 Generally these problems are LC easy to medium. 
 
-- ⚠(don't) **Take home Project**: some companies tend to give you a project that you can 
-complete within some time. Generally these projects can take between 6-20 hours
-of your valuable time. Most experienced dev do not like taking such tests.
-This a horrendous approach, since it takes a lot of your time but doesn't cost 
-a penny to the company. So, they like giving out some projects. My personal take
-is, a interview process should cost proportional time on both end, otherwise such
-process is not a fair process. 
+- ⚠(don't) **Take home Project**: some companies tend to give you a project that 
+you can complete within some time. Generally these projects can take between 
+6-20 hours of your valuable time. Most experienced dev do not like taking such 
+tests. This a horrendous approach, since it takes a lot of your time but does 
+not cost a penny to the company. So, they like giving out some projects. My 
+personal take is, a interview process should cost proportional time on both end, 
+otherwise such process is not a fair process. 
+
+
+### Preparing for the coding interview
+> a.k.a. grinding LeetCode
+
+Preparing for a coding interview is like taking any standardized test; only that
+such interviews are by no means standardized. Fear not, most large companies and
+big names try to evaluate all of their candidates with one common yardstick. 
+So, it is not very difficult to prepare. 
+
+Most common approach is to solve problems on LeetCode.com. However, there are 
+about a thousand problems on LC and there are problems outside of LeetCode.com. 
+Moreover, if you try to cram solutions, that is not going to work. You are not 
+going to see an exact LC problem but some refinement, variation or extension of
+LC problems. It is also likely that you'd see a problem which cannot be related 
+to some LC problem. Remember, there are engineers who device their won problems 
+and there are engineers who just recycle from someone else's. Regardless, the 
+goal of these kind of interview is to test your ability to use known algorithms
+and data structures to solve some toy problems. They often mimic real life 
+problems or are often simplified versions of them. 
+
+#### So, how to grind LeetCode?
+
+##### Prerequisite 
+(if you can solve LC easy under ten, then you can skip this step)
+First step is to build your base skills. Make sure you have basic understanding
+of some of the most used data structures and algorithms:
+- implement stacks and queues using both linked lists and arrays 
+- implement heap operations (insert, delete and pop) on an array
+- implement at least one sort algorithm
+- implement binary search
+- implement basic operations and traversals on binary trees and BSTs
+- read about hashing, understand hash map, dictionaries, sets etc. in your programming language 
+
+Once you are confident about these, try solving LC easy problems. Your goal is to
+solve LC easy under ten minutes. 
+
+
+##### Practice
+
+I found following approaches to be useful:
+
+- Subscribe to dailycodingproblems.com. They'd email you one problem everyday. 
+If you upgrade then, they'd also send a detailed article with solutions the next
+day. What I liked about their problems is that, they cover a lot of different 
+types of algorithms, data structures and problem solving techniques. Moreover,
+getting a coding problem daily makes sure you approach one problem every day.
+
+- LeetCode has few curated collections of problems under their explore tab. For 
+most people, it is impossible to approach all thousand problems because of time
+constraints. So, solve curated top [medium](https://leetcode.com/explore/interview/card/top-interview-questions-medium/)
+and some of curated top [hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
+problems. This way, you'd solve wide variety of problem types. 
+
+- Now, I want to emphasize on how to gauge your problem solving ability. Given 
+enough time and tools, you can solve most medium problems. But, if you need more
+than 60-70 minutes for a medium problem, that means you are struggling with the 
+problem. On the other hand, you solving a medium problem under 20 minutes does 
+not necessarily mean you mastered it. So, try to solve a problem first. If you 
+can do it within an hour or so, go to discussion, read the article (if there is 
+one) about the problem. Look at different approaches to solve the problems and 
+pros and cons of each solutions (runtime, space complexity etc.) If you encounter 
+a new data structure or a new algorithm read up more about it. 
+If you could not arrive to a solution within an hour, mark the problem and revisit
+it after one or two weeks. 
+
+- Now, your goal is to be able to solve a LC medium problem under half an hour.
+So, keep solving different problems until you get there. 
+
+- Besides LeetCode, HackerRank is also a great tool for interview preparation. 
+
+- You can also solve problems in competitive programming platforms such as 
+TopCoder, CodeForces, CodeChef etc and solve ACM ICPC problems. Specially, if you
+find LeetCode and HackerRank boring then, TopCoder is your arena. 
+
+- When you are comfortable with problems of medium/intermediate difficulty, you 
+can start solving hard problems. This is also the time, when you can start accepting
+job interviews and/or start applying. 
+
+- There is a small collection of problems that covers a wider variety of common
+challenges that you may face in an interview. It is a good idea to solve all 
+problems listed [here](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
+
+
+##### Study to learn
+
+When athletes build their physique, they eat and practice. Same goes for building
+problem solving skills. Just practicing is not enough, you need to nourish your
+braining by providing proper reading materials.
+
+As mentioned earlier, following are some really good reading materials
+
+- Algorithms.wtf by Jeff Erickson
+- G4G
+- LC
+
+Pick and chose from these resources as you face difficulty during your practice
+sessions. You need to seek to learn actively and passively.
+
+- When you find some new algorithm/ds/approach while solving a problem, you read
+up about them. This is passive seeking.
+- Besides, you should also actively look for new materials to learn from by 
+looking at resources like those listed above
+
+
+##### Collaborate
+
+One of the most important thing an engineer does is collaborate. So, it is no 
+surprise that, preparing for interviews get better with collaborations. 
+
+- If you have friends who are also preparing for interviews than, do mock 
+interviews with each other. Take turns and solve problems. 
+
+- Explain a newly learned concept to your peers (if possible)
+
+- I know, for engineers already working above two approaches are not easy to 
+avail. To help with that, there are online platforms that can pair you up with
+random strangers. For example Pramp.com is such a platform. Even if you can 
+practice with friends, it is a good idea to some mock interviews on Pramp with 
+strangers. This really helps a lot. 
+
+
+### Preparing for pair programming interviews
+
+From my experience, being good at your work combined with being good at LC style
+problem solving helps you do good at pair programming interviews. 
+
+I should not need to tell this out loud, but, one thing I need to remind you that,
+even though this is called pair programming, it is still an interview where you 
+are being judged. So, you are expected to come up with solutions and you are 
+expected to do all of the coding. 
+
+Problems in pair programming interviews are generally of medium difficulty. Your
+pair may start with asking you to define a model or a class for some toy problem
+representing a real production scenario. Then, they will gradually start adding 
+some more scenarios. For each part of this session, you may keep adding more
+function definitions and derive algorithms for those sub-problems. There are
+generally 3-4 parts and often a fifth bonus question.
+
+Since, these problems are not hard, you are expected to code fluently, come up
+with solutions quickly and also be able to come up with test cases, edge cases 
+and run tests.
+
+Think of these 45-60 minute pair programming sessions as rapid prototyping 
+sessions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 <br/>
 <hr/>
