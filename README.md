@@ -38,6 +38,7 @@ bit everyday.
 - [Official Guides](#official-guides)
 - [Bookmarks](#bookmarks)
 - [Even if you are not interviewing](#even-if-you-are-not-interviewing)
+- [Job Channels](#job-channels)
 - [More Stuff](#random-links)
 
 
@@ -434,6 +435,30 @@ so much that they actively generate and provide prep materials.
 - [**Project Euler**](https://projecteuler.net) -- a collection of mathematical problems for which answers can be found
  using computer programs. 
 
+## Job Channels
+> I found the following channels to be a good source for job search:
+
+- [**Triplebyte**](https://triplebyte.com/iv/KKhrz2Q/cp/header) -- Triplebyte is a platform which makes finding new
+opportunities and hiring great talent - both easier. First anyone can take their online quiz. This is a comprehensive 
+quiz covering various topics a generalist software engineer is expected to know. Don't worry, none of these are tricky
+or arcane. If you pass this quiz you are invited to schedule a 2hr Skype interview. You'd be provided enough prep 
+material for those. Once you pass this step, you'ld be matched with upto 200 potential companies based on your skills 
+and interests. They'd also send you some really nice swag (I got an wireless charger and a nice jacket). Their portfolio 
+includes a lot of top tier companies. Once you match with some companies, they'd give you pitch calls to tell you about
+their job opportunities. Then you are expected to set up 3-5 on-site interviews. They'd arrange them in a way so that 
+you can just travel once and be done with it. There have been historically a 50% on-site to offer rate. So, if you go 
+for 5 on-sites you'd easily get 2-3 offers to chose from. One thing great about this service is that, they eliminate the
+messy sourcing and phone screening steps. Another great thing is that, you can arrange your interviews together making 
+it easy to secure multiple offers in a short window. On top of all that, Triplebyte will give you three grands if you 
+accept and offer through them. 
+
+- [**Hired.com**](https://hired.com/x/3fomt) -- After you sign up with them, they'd review your profile and one hiring 
+advocate may have a phone chat with you to better understand your profile and career goal. They usually focus on 
+candidates in (located at or willing to relocated to) major US tech hubs such as SF Bay Area, NYC etc. They advise on 
+your career progression and once you are ready your profile would go live for 1-2 weeks. Going live means, your profile
+will be advertised to a pool of potential employers who in turn will contact with you about potential opportunities. 
+I found [Hired.com](https://hired.com/x/3fomt) to be very useful. On top of hooking up to a lot of good employers, you'd
+get a cash bonus if you get hired through them. 
 
 
 ## Random Links
