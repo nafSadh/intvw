@@ -23,6 +23,11 @@ _**yet another guide on interview prep**_ (abbr. YAGIP);
 but I am  scribing it down, mostly for my own record. If it turns out to be 
 helpful to someone else, then that is a plus.
 
+This article will go on a lot of things before actually telling you how to 
+prepare for an interview. I believe, it is more important to understand the game
+before actually attempting to prepare for it. In other words, getting to know 
+the process is part of the prep. 
+
 
 ## Table of Contents
 - [Mindset and approach](#mindset-and-approach)
@@ -34,6 +39,8 @@ helpful to someone else, then that is a plus.
   - [Topics](#dsalgo-topics)
   - [Reading Materials](#dsalgo-reading-materials)
 - [Hacking the Coding Interview](#coding)  
+   - [Types of coding interview](#types)
+   - [The PREP](#preparing-for-the-coding-interview)
 
 ###### abbr.
 I am using following abbreviations in this document:
@@ -84,7 +91,7 @@ As a software engineer you need to focus on the following things:
 - Understanding of software systems (system design, architecture, API design etc.)
 - Understanding of software development process and lifecycle (SDLC, Agile, Scrum, CD, CI etc)
 - Interviewing (Applying/Getting interview requests and timing)
-- Know your worth
+- Knowing your worth
 - Making a decision
 
 
@@ -107,9 +114,11 @@ and utilize their threads on
 
 ## Your Story
 - What is your elevator pitch? 
-- How can you introduce yourself to me in less than five minutes. 
+- How can you introduce yourself to me in less than five minutes?
 - Can you tell me about you in 15-20 minutes?
 - What did you do? What interests you? What are you working on?
+
+[Notice how the storytelling changes with time length and format]
 
 Be excited about what you are doing. Be excited about yourself. Exude confidence 
 and passion. 
@@ -136,7 +145,7 @@ you understand most of the following:
 - Arrays, Collections, Dynamic Arrays, Direct Access
 - Linked Lists, Doubly LL, Circular LL 
 - Stack, Queue, Heap/Priority Queue -- LL & array implementations
-- Trees, BSTs, Binary and m-ary trees 
+- Trees, BSTs, Binary, m-ary trees, Tries 
 - Graphs
 - Hashed map, hashed set etc. 📃 [hash-maps↗](http://shlegeris.com/2017/01/06/hash-maps)
 
@@ -145,6 +154,9 @@ you understand most of the following:
 - Sorting, merge sort, quick sort, bubble sort, insertion sort, bucket sort etc. 
 - Binary search
 - Iteration, loop invariant
+
+[Note that, you'd probably never be asked directly about these topics. However, a solid understanding of the
+ aforementioned topics is the foundation on which you'll build your skills.]
 
 🔬 Intermediate: 
 - Recursion
@@ -175,8 +187,8 @@ Floyd Wasrhall etc.
 > Everyone has their own style of studying. So, adopt it for yourself. 
 
 These are some books that I have found useful in the past:
-- [Sedgewick](http://a.co/d/9cUnqJI) -- It was my favorite book in college
-- [CLRS](http://a.co/d/aVnF8Eu) -- *the* algorithm text book
+- [Sedgewick](http://a.co/d/9cUnqJI) -- it was my favorite book in college
+- [CLRS](http://a.co/d/aVnF8Eu) -- **_the_** algorithm text book
 - [Skiena](http://www.algorist.com/) -- design manual, I keep it on my desk
 - [DVP](http://cseweb.ucsd.edu/~dasgupta/book/index.html) -- Dasgupta _et al_; ([↗pdf](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf))
 
@@ -208,10 +220,12 @@ Preparing for coding interview is often colloquially known as *leetcoding*. This
 is because [LeetCode](http://leetcode.com) is the ubiquitous resource that almost
 everyone uses for preparations. 
 
+### Types
 Let us talk about types of coding interviews. The goal of coding interview is to
-test you ability to produce useful code. That is what you are primarily being 
-hired for. So it makes total sense to test these skill. There some common formats
+test your ability to produce useful code. That is what you are primarily being 
+hired for. So it makes total sense to test this skill. There some common formats
 of coding interviews
+
 - **Classic LC style** interviews: This is the most common format of coding 
 interview. Your interviewer will ask you some LC style question and you are 
 expected to solve it in 10-50 minutes based on the difficulty of the problem. 
@@ -230,9 +244,10 @@ LC mediums during their 45 minute interview (so realistically one medium problem
 under 19 minutes).
 <br/>
 For phone screening you'd usually do this exercise on a shared online coding 
-environment like HackerRank, CoderPad etc. On an on-site, generally, you'd write
-code on a whiteboard, but don't be surprised if you are actually coding on paper
-or on a computer. 
+environment like HackerRank, CoderPad etc. (in some odd case, you may have to 
+write code on a Google doc or some other rich text format; may God help you in 
+that scenario). On an on-site, generally, you'd write code on a whiteboard, but 
+don't be surprised if you are actually coding on paper or on a computer. 
 
 - **Pair Programming** interviews are becoming commonplace nowadays. Here you 
 usually get paired with one interviewer and solve a problem incrementally. 
@@ -309,9 +324,10 @@ solve LC easy under ten minutes.
 
 I found following approaches to be useful:
 
-- Subscribe to dailycodingproblems.com. They'd email you one problem everyday. 
-If you upgrade then, they'd also send a detailed article with solutions the next
-day. What I liked about their problems is that, they cover a lot of different 
+- Subscribe to [dailycodingproblems.com](http://dailycodingproblems.com). They'd 
+email you one problem everyday.  If you upgrade (for ~$7/mo) then, they'd also 
+send a detailed article with solutions the next day. What I liked about their 
+problems is that, they cover a lot of different 
 types of algorithms, data structures and problem solving techniques. Moreover,
 getting a coding problem daily makes sure you approach one problem every day.
 
@@ -321,17 +337,15 @@ constraints. So, solve curated top [medium](https://leetcode.com/explore/intervi
 and some of curated top [hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
 problems. This way, you'd solve wide variety of problem types. 
 
-- Now, I want to emphasize on how to gauge your problem solving ability. Given 
+- Let's talk a little bit about how to gauge your problem solving ability. Given 
 enough time and tools, you can solve most medium problems. But, if you need more
 than 60-70 minutes for a medium problem, that means you are struggling with the 
-problem. On the other hand, you solving a medium problem under 20 minutes does 
-not necessarily mean you mastered it. So, try to solve a problem first. If you 
-can do it within an hour or so, go to discussion, read the article (if there is 
-one) about the problem. Look at different approaches to solve the problems and 
-pros and cons of each solutions (runtime, space complexity etc.) If you encounter 
-a new data structure or a new algorithm read up more about it. 
-If you could not arrive to a solution within an hour, mark the problem and revisit
-it after one or two weeks. 
+problem. So, try to solve a problem first. If you can do it within an hour or 
+so, go to discussion, read the article (if there is one) about the problem. Look
+at different approaches to solve the problems and pros and cons of each 
+solutions (runtime, space complexity etc.) If you encounter a new data structure
+or a new algorithm read up more about it. If you could not arrive to a solution 
+within an hour, mark the problem and revisit it after one or two weeks. 
 
 - Now, your goal is to be able to solve a LC medium problem under half an hour.
 So, keep solving different problems until you get there. 
@@ -347,21 +361,21 @@ can start solving hard problems. This is also the time, when you can start accep
 job interviews and/or start applying. 
 
 - There is a small collection of problems that covers a wider variety of common
-challenges that you may face in an interview. It is a good idea to solve all 
-problems listed [here](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
+challenges that you may face in an interview. It is a good idea to solve and 
+understand all problems listed [here](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
 
 ##### Study to learn
 
 When athletes build their physique, they eat and practice. Same goes for building
 problem solving skills. Just practicing is not enough, you need to nourish your
-braining by providing proper reading materials.
+brain by providing proper reading materials.
 
 As mentioned earlier, following are some really good reading materials
 
-- Algorithms.wtf by Jeff Erickson
-- G4G
-- LC
+- [Algorithms.wtf](http://algorithms.wtf) by Jeff Erickson
+- [G4G](https://www.geeksforgeeks.org/)
+- [LC Articles](https://leetcode.com/articles/)
 
 Pick and chose from these resources as you face difficulty during your practice
 sessions. You need to seek to learn actively and passively.
@@ -377,16 +391,17 @@ looking at resources like those listed above
 One of the most important thing an engineer does is collaborate. So, it is no 
 surprise that, preparing for interviews get better with collaborations. 
 
-- If you have friends who are also preparing for interviews than, do mock 
+- If you have friends who are also preparing for interviews then, do mock 
 interviews with each other. Take turns and solve problems. 
 
 - Explain a newly learned concept to your peers (if possible)
 
-- I know, for engineers already working above two approaches are not easy to 
-avail. To help with that, there are online platforms that can pair you up with
-random strangers. For example Pramp.com is such a platform. Even if you can 
-practice with friends, it is a good idea to some mock interviews on Pramp with 
-strangers. This really helps a lot. 
+- Granted for engineers, who are also working full time, aforementioned two 
+approaches are not easy to avail. To help with that, there are online platforms 
+that can pair you up with random strangers. [Pramp.com](http://pramp.com) is one
+such platform. Even if you can practice with friends, it is a good idea to 
+conduct some mock interviews on Pramp with strangers. This really helps a lot. 
+Besides, [interviewing.io](https://interviewing.io/) is good too.
 
 
 ### Preparing for pair programming interviews
@@ -394,10 +409,10 @@ strangers. This really helps a lot.
 From my experience, being good at your work combined with being good at LC style
 problem solving helps you do good at pair programming interviews. 
 
-I should not need to tell this out loud, but, one thing I need to remind you that,
-even though this is called pair programming, it is still an interview where you 
-are being judged. So, you are expected to come up with solutions and you are 
-expected to do all of the coding. 
+This should be obvious, however, just in case it is not: even though this is 
+called pair programming, it is still an interview where you are being judged. 
+So, you are expected to come up with solutions and you are expected to do all of 
+the coding. 
 
 Problems in pair programming interviews are generally of medium difficulty. Your
 pair may start with asking you to define a model or a class for some toy problem
@@ -446,44 +461,6 @@ platforms (e.g. HackerRank, CoderPad etc.).
 Since these rounds are similar to on-site coding interviews, preparing for it is 
 all the same. Just note that, if you found passing phone screening difficult, it 
 is advisable to take way more preparation before going to on-sites. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  
 <br/>
