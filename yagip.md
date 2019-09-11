@@ -74,22 +74,20 @@ software engineering roles. Titles vary; but usually:
 - Software Engineer
 - Software Development Engineer
 
-Often shortened as SE, SWE, SDE etc. For more info visit [level.fyi](http://level.fyi)
-And there would be a lot of qualifiers; e.g.: Senior SE/SDE/SWE, Staff ~.
-Also manager roles may be titled as: Software Engineering Manager, 
-Engineering Manager, Director of Engineering etc. 
-
-I am not a manager or tech leader yet. So, take this with some grains of salt. 
+Often shortened as SE, SWE, SDE etc. For more info visit [level.fyi](http://level.fyi).
+There would be a lot of qualifiers; e.g.: Senior SE/SDE/SWE, Staff ~.
+Manager roles may be titled as: Software Engineering Manager, Engineering 
+Manager, Director of Engineering etc. 
 
 ## Things to focus on
 As a software engineer you need to focus on the following things:
 
 - Your profile (LinkedIn and resume) 
-- Your story (what story do you want to tell about yourself to recruiters, mangers and peers)
+- Your story (what story do you want to recruiters/mangers/peers)
 - Understanding basic data structures and algorithms
 - Problem solving and programming skill
 - Understanding of software systems (system design, architecture, API design etc.)
-- Understanding of software development process and lifecycle (SDLC, Agile, Scrum, CD, CI etc)
+- Understanding of software development process and lifecycle (SDLC, CD, CI etc)
 - Interviewing (Applying/Getting interview requests and timing)
 - Knowing your worth
 - Making a decision
@@ -97,13 +95,11 @@ As a software engineer you need to focus on the following things:
 
 ## Your Profile
 Resume is important for job search. But, today, LinkedIn is the most important
-form of profile. So, try to polish your LinkedIn profile. Do not add fake info. 
-Remove stale info. Proudly showcase what you have done. You have more room to 
-list all of your achievements, voluntary works and what not. For each role, also
-describe what you worked on, list your projects so on so forth.
-
-I do not know how valued recommendations and endorsements on LinkedIn are, but it 
-is definitely nice to have those. 
+form of profile. You have more room to list all of your achievements, voluntary 
+works and what not. So, try to polish your LinkedIn profile. Do not exaggerate 
+or lie. Remove stale info. Proudly showcase what you have done. For each role,
+describe what you worked on, list your projects so on so forth. It is nice to 
+have recommendations and endorsements, but these or of subjective value. 
 
 Resumes should be strictly one page, should have your contact info and list your
 relevant jobs and education. Read CSCQ FAQ on 
@@ -112,10 +108,11 @@ and utilize their threads on
 [resume review](https://www.reddit.com/r/cscareerquestions/search?q=Resume+Advice+Thread&restrict_sr=on&sort=new&t=all).
 
 
+
 ## Your Story
 - What is your elevator pitch? 
-- How can you introduce yourself to me in less than five minutes?
-- Can you tell me about you in 15-20 minutes?
+- How can you introduce yourself in less than five minutes?
+- Can you speak about yourself for 15-20 minutes?
 - What did you do? What interests you? What are you working on?
 
 [Notice how the storytelling changes with time length and format]
@@ -123,10 +120,10 @@ and utilize their threads on
 Be excited about what you are doing. Be excited about yourself. Exude confidence 
 and passion. 
 To prepare for this, take some time to reflect on your life and career. Go through 
-your good old memories, and if you have access to, through your past projects (their
+your good old memories, and, if you can, through your past projects (their 
 documentations, demos, videos, presentations, source code -- whatever you have).
-Also, if you are currently working, and interviewing as an industry hire, please,
-try to understand the bigger picture and architecture of your current project(s).
+If you are currently working, please, make sure you have an understanding of the 
+bigger picture and architecture of your current project(s).
 
 Also, reflect on any decisions (technical or otherwise) you have made at work or 
 for yourself. Do some introspection. Was that a right decision? Why did you make 
@@ -184,7 +181,7 @@ Floyd Wasrhall etc.
 - NP hard, NP complete 🕶 
 
 ### DS+Algo Reading Materials
-> Everyone has their own style of studying. So, adopt it for yourself. 
+> Everyone has their own style of studying. So, adopt accordingly. 
 
 These are some books that I have found useful in the past:
 - [Sedgewick](http://a.co/d/9cUnqJI) -- it was my favorite book in college
@@ -194,7 +191,7 @@ These are some books that I have found useful in the past:
 
 But, this time I used following resources to brush up my understanding of algorithms 
 
-- **💎[Jeff Erickson](http://algorithms.wtf)** -- lecture notes by an UIUC prof, 
+- **💎 [Jeff Erickson](http://algorithms.wtf)** -- lecture notes by an UIUC prof, 
 now converted into a book. I focused on chapters: 3 to 8
 - [Lecture on Perfect Hashing](https://www.youtube.com/watch?v=N0COwN14gt0&list=PLcwzLgwZyB41YgCGN1LFO-7wsg8Qh6-gp&index=2) by Prof. David R. Karger, MIT
 - [Suffix Tree and other adv string d.s.](https://www.youtube.com/watch?v=F3nbY3hIDLQ&t=3328s) - Erik Damien
@@ -206,15 +203,16 @@ now converted into a book. I focused on chapters: 3 to 8
 - Understanding sliding window on [Project Nayuki](https://www.nayuki.io/page/sliding-window-minimum-maximum-algorithm)
 - [Arbitrage opportunity with Bellman-Ford](https://www.dailycodingproblem.com/blog/how-to-find-arbitrage-opportunities-in-python/)
 
-
+Here is a [log of what I have read](https://intvw.nafsadh.com/reading_log) 
+during my preparation. 
  
 ## Coding
 > _**Hacking the Coding Interview**_  
 
-I'd be honest with you. Coding interview can feel like playing Russian roulette.
-You are expected to solve some problem, come up with an algorithm and code it 
-within some time constraint. This can feel challenging. But, with practice, you 
-can get better at it. 
+Coding interview can feel like playing Russian roulette. You are expected to 
+solve some problem, come up with an algorithm and code it within some time 
+constraint. This can feel challenging. But, with practice, you  can get better 
+at it. 
 
 Preparing for coding interview is often colloquially known as *leetcoding*. This
 is because [LeetCode](http://leetcode.com) is the ubiquitous resource that almost
