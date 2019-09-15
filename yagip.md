@@ -367,16 +367,8 @@ understand all problems listed [here](https://jeremyaguilon.me/blog/ranking_inte
 
 When athletes build their physique, they eat and practice. Same goes for building
 problem solving skills. Just practicing is not enough, you need to nourish your
-brain by providing proper reading materials.
-
-As mentioned earlier, following are some really good reading materials
-
-- [Algorithms.wtf](http://algorithms.wtf) by Jeff Erickson
-- [G4G](https://www.geeksforgeeks.org/)
-- [LC Articles](https://leetcode.com/articles/)
-
-Pick and chose from these resources as you face difficulty during your practice
-sessions. You need to seek to learn actively and passively.
+brain by providing proper reading materials. Seek to learn both actively and 
+passively:
 
 - When you find some new algorithm/ds/approach while solving a problem, you read
 up about them. This is passive seeking.
@@ -386,19 +378,18 @@ looking at resources like those listed above
 
 ##### Collaborate
 
-One of the most important thing an engineer does is collaborate. So, it is no 
-surprise that, preparing for interviews get better with collaborations. 
+Engineers work through collaboration. So, naturally, preparing for interviews 
+get better with collaboration. 
 
 - If you have friends who are also preparing for interviews then, do mock 
 interviews with each other. Take turns and solve problems. 
 
-- Explain a newly learned concept to your peers (if possible)
+- Explain a newly learned concept to your peers.
 
-- Granted for engineers, who are also working full time, aforementioned two 
-approaches are not easy to avail. To help with that, there are online platforms 
-that can pair you up with random strangers. [Pramp.com](http://pramp.com) is one
-such platform. Even if you can practice with friends, it is a good idea to 
-conduct some mock interviews on Pramp with strangers. This really helps a lot. 
+Often doing these can be difficult for working engineers. To help with that, 
+there are online platforms that can pair you up with random strangers.
+[Pramp.com](http://pramp.com) is one such platform. Besides practicing with 
+friends, it can be beneficial to conduct mock interviews on Pramp with strangers.
 Besides, [interviewing.io](https://interviewing.io/) is good too.
 
 
@@ -407,17 +398,16 @@ Besides, [interviewing.io](https://interviewing.io/) is good too.
 From my experience, being good at your work combined with being good at LC style
 problem solving helps you do good at pair programming interviews. 
 
-This should be obvious, however, just in case it is not: even though this is 
-called pair programming, it is still an interview where you are being judged. 
-So, you are expected to come up with solutions and you are expected to do all of 
-the coding. 
+Even though this is called pair programming, it is still an interview where you 
+are being judged. So, _you_ are expected to come up with solutions and _you_ are 
+expected to do all of the coding. 
 
 Problems in pair programming interviews are generally of medium difficulty. Your
 pair may start with asking you to define a model or a class for some toy problem
-representing a real production scenario. Then, they will gradually start adding 
-some more scenarios. For each part of this session, you may keep adding more
-function definitions and derive algorithms for those sub-problems. There are
-generally 3-4 parts and often a fifth bonus question.
+(often representing a real scenario). They will gradually add more scenarios. 
+For each part of this session, you may keep adding more function definitions and 
+come up with algorithms for those sub-problems. There are generally 3-4 parts 
+and often a fifth bonus question.
 
 Since, these problems are not hard, you are expected to code fluently, come up
 with solutions quickly and also be able to come up with test cases, edge cases 
