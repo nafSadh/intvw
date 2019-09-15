@@ -2,6 +2,14 @@ YAGIP
 =====
 #### Yet Another Guide on Interview Prep
 
+[🌐 nafSadh](http://sadh.me)»
+[notes](https://notes.nafsadh.com)»
+YAGIP»
+[Preface](http://intvw.nafsadh.com/yagip/preface) · 
+[Reading Log](http://intvw.nafsadh.com/reading_log) ·
+[Resources](http://intvw.nafsadh.com/reading_log)
+<br/>
+
 This article will go on a lot of things before actually telling you how to 
 prepare for an interview. I believe, it is more important to understand the game
 before actually attempting to prepare for it. In other words, getting to know 
