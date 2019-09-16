@@ -2,19 +2,15 @@ YAGIP
 =====
 #### Yet Another Guide on Interview Prep
 
-[🌐 nafSadh](http://sadh.me)»
-[notes](https://notes.nafsadh.com)»
-YAGIP»
-[Preface](http://intvw.nafsadh.com/yagip/preface) · 
-[Reading Log](http://intvw.nafsadh.com/reading_log) ·
+[nafSadh](http://sadh.me) //
+[notes](https://notes.nafsadh.com) //
+<u>YAGIP</u> / 
+[Preface](http://intvw.nafsadh.com/yagip/preface) / 
+[Reading Log](http://intvw.nafsadh.com/reading_log) /
 [Resources](http://intvw.nafsadh.com/reading_log)
-<br/>
 
-This article will go on a lot of things before actually telling you how to 
-prepare for an interview. I believe, it is more important to understand the game
-before actually attempting to prepare for it. In other words, getting to know 
-the process is part of the prep. 
-
+This article talks how to prepare for a software engineering job interview. 
+Before going into "how-to" it talks a bit about "what to". 
 
 ## Table of Contents
 - [Mindset and approach](#mindset-and-approach)
@@ -22,12 +18,18 @@ the process is part of the prep.
 - [Things to focus on](#things-to-focus-on)
 - [Your Profile](#your-profile)
 - [Your Story](#your-story)
-- [Data Structures and Algorithms](#dsalgo)
-  - [Topics](#dsalgo-topics)
-  - [Reading Materials](#dsalgo-reading-materials)
-- [Hacking the Coding Interview](#coding)  
-   - [Types of coding interview](#types)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
+  - [Topics](#dsa-topics)
+  - [Reading Materials](#dsa-reading-materials)
+- [The Coding Interview](#the-coding-interview)  
+   - [Types](#types-of-coding-interview)
+   - [Screening rounds](#screening-rounds)
    - [The PREP](#preparing-for-the-coding-interview)
+        - [Practice](#practice)
+        - [Study](#study-to-learn)
+        - [Collaborate](#collaborate)
+        - [Pair programming prep](#preparing-for-pair-programming-interviews)
+        - [Screening round prep](#preparing-for-screening-rounds)
 
 ###### abbr.
 I am using following abbreviations in this document:
@@ -42,7 +44,7 @@ I am using following abbreviations in this document:
 - 🌪 - these topic needs very advanced understanding, if you can learn about those then awesome, 
 but realistically I don't expect questions from these topics 
 - 🔍 - search
-
+<hr/>
 
 ## Mindset and approach
 Having a right mindset is helpful. What is right for you may be different from 
@@ -119,13 +121,15 @@ those decisions etc.
 Know thyself. 
 
 
-## DS+Algo
+## Data Structures and Algorithms 
+> DS&A
+
 Understanding most used data structures and algorithms is a must. Depending on
 how fresh is your knowledge, you may benefit from reading on them. Make sure that
 you understand most of the following:
 
-### DA+Algo Topics
-###### DS 
+### DS&A Topics
+**Data Structures**
 - Arrays, Collections, Dynamic Arrays, Direct Access
 - Linked Lists, Doubly LL, Circular LL 
 - Stack, Queue, Heap/Priority Queue -- LL & array implementations
@@ -133,7 +137,8 @@ you understand most of the following:
 - Graphs
 - Hashed map, hashed set etc. 📃 [hash-maps↗](http://shlegeris.com/2017/01/06/hash-maps)
 
-###### Algorithm concepts
+**Algorithm concepts**
+
 🔬 Basics: 
 - Sorting, merge sort, quick sort, bubble sort, insertion sort, bucket sort etc. 
 - Binary search
@@ -150,10 +155,10 @@ you understand most of the following:
 ✨ Somewhat Advanced: 
 - Dynamic programming, memoization
 - Graph traversal, BFS, DFS
-- Be familiar with common graph algorithms like Djisktra's, Krushkal's, Prim's, 
-Floyd Wasrhall etc. 
+- Common graph algorithms  
+  e.g.:  Djisktra's, Krushkal's, Prim's, Floyd Wasrhall etc. 
 
-🌪 Advanced (you can skip this):
+🌪 Advanced (can skip):
 - Maximum flow
 - Number theory
 - Randomized algorithms
@@ -161,27 +166,31 @@ Floyd Wasrhall etc.
 - Parallel algorithms
 
 
-###### Related concepts
+**Related concepts**
 - Space and time complexity (Big O notations) 
     📃 [complexity](https://discrete.gr/complexity/), 
     [big-O c/s](http://bigocheatsheet.com/)
 - NP hard, NP complete 🕶 
 
-### DS+Algo Reading Materials
+### DS&A Reading Materials
 > Everyone has their own style of studying. So, adopt accordingly. 
 
-These are some books that I have found useful in the past:
-- [Sedgewick](http://a.co/d/9cUnqJI) -- it was my favorite book in college
+These are some books that I have found to be useful in the past:
+- [Sedgewick](http://a.co/d/9cUnqJI) -- it was my favorite book in undergrad
 - [CLRS](http://a.co/d/aVnF8Eu) -- **_the_** algorithm text book
 - [Skiena](http://www.algorist.com/) -- design manual, I keep it on my desk
-- [DVP](http://cseweb.ucsd.edu/~dasgupta/book/index.html) -- Dasgupta _et al_; ([↗pdf](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf))
+- [DVP](http://cseweb.ucsd.edu/~dasgupta/book/index.html) -- Dasgupta _et al_; 
+([↗pdf](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf))
 
-But, this time I used following resources to brush up my understanding of algorithms 
+However, I used following resources to brush up my understanding of algorithms, 
 
-- **💎 [Jeff Erickson](http://algorithms.wtf)** -- lecture notes by an UIUC prof, 
-now converted into a book. I focused on chapters: 3 to 8
-- [Lecture on Perfect Hashing](https://www.youtube.com/watch?v=N0COwN14gt0&list=PLcwzLgwZyB41YgCGN1LFO-7wsg8Qh6-gp&index=2) by Prof. David R. Karger, MIT
-- [Suffix Tree and other adv string d.s.](https://www.youtube.com/watch?v=F3nbY3hIDLQ&t=3328s) - Erik Damien
+- **💎 [Jeff Erickson](http://algorithms.wtf)** -- lecture notes by an UIUC
+ professor, now converted into a book. Especially, chapters: 3 to 8
+- Lecture on [Perfect Hashing](https://youtu.be/N0COwN14gt0) by Prof. 
+[David Karger](https://w.wiki/8Rf) of MIT
+- Lecture on [advanced string data structures](https://youtu.be/F3nbY3hIDLQ) - 
+MIT Prof [Erik Demaine](https://w.wiki/8Re) talks about suffix tree and other 
+advanced string topics
 - [Max sum of non-adj nums](http://blog.gainlo.co/index.php/2016/12/02/uber-interview-question-maximum-sum-non-adjacent-elements/) · on Gainlo
 - Dynamic Programming
   - [TopCoder Article](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
@@ -192,8 +201,9 @@ now converted into a book. I focused on chapters: 3 to 8
 
 Here is a [log of what I have read](https://intvw.nafsadh.com/reading_log) 
 during my preparation. 
- 
-## Coding
+
+
+## The Coding Interview
 > _**Hacking the Coding Interview**_  
 
 Coding interview can feel like playing Russian roulette. You are expected to 
@@ -205,7 +215,7 @@ Preparing for coding interview is often colloquially known as *leetcoding*. This
 is because [LeetCode](http://leetcode.com) is the ubiquitous resource that almost
 everyone uses for preparations. 
 
-### Types
+### Types of coding interview
 Let us talk about types of coding interviews. The goal of coding interview is to
 test your ability to produce useful code. That is what you are primarily being 
 hired for. So it makes total sense to test this skill. There some common formats
@@ -269,6 +279,35 @@ personal take is, a interview process should cost proportional time on both end,
 otherwise such process is not a fair process. 
 
 
+### Screening rounds
+
+Most companies screen their candidates before inviting them to on-site. Screening
+can be done using an online assessment (1-2hr) or a phone/video interview session 
+(~1hr).   
+*Some companies may want you to do longer online assessments or take home
+tests. Anything that involves more than 90 minutes of your time and zero minutes
+of your time is a big no.*
+
+**Online assessments** then will have some LC style easy to medium problems to
+solve. You are generally given a clear problem statement and an online coding 
+editor where you can write, run and test codes. Often they will provide 2-3 
+explained test cases and more than a few hidden test cases. Often you can run your
+code and know if all hidden cases passed. These will be done using platforms like
+HackerRank, AmCat etc. 
+
+**Phone interview** is just a single session of on-site interview. Generally they'd
+ask one-two LC style easy to medium questions, but some dark soul may also ask a
+hard problem. _(It is not difficult to solve a hard problem, just that the remote
+nature of the interview often cause technical issues and communication difficulties 
+which may eat up time necessary for a hard problem.)_ Some companies may conduct
+a remote pair programming session. Nothing to worry about either of these interviews.
+One thing to note, even though this round in colloquially known as phone interview
+(because originally it was conducted via telephone) it can utilize any remote 
+communication tool, including but not limited to telephone calls, Hangout/Skype
+etc. or other video conferencing (BlueJeans, Zoom) or online coding interview
+platforms (e.g. HackerRank, CoderPad etc.). 
+
+
 ### Preparing for the coding interview
 > a.k.a. grinding LeetCode
 
@@ -288,7 +327,7 @@ goal of these kind of interview is to test your ability to use known algorithms
 and data structures to solve some toy problems. They often mimic real life 
 problems or are often simplified versions of them. 
 
-#### So, how to grind LeetCode?
+#### How to "grind" LeetCode?
 
 ##### Prerequisite 
 (if you can solve LC easy under ten, then you can skip this step)
@@ -309,46 +348,51 @@ solve LC easy under ten minutes.
 
 I found following approaches to be useful:
 
-- Subscribe to [dailycodingproblems.com](http://dailycodingproblems.com). They'd 
-email you one problem everyday.  If you upgrade (for ~$7/mo) then, they'd also 
-send a detailed article with solutions the next day. What I liked about their 
-problems is that, they cover a lot of different 
-types of algorithms, data structures and problem solving techniques. Moreover,
-getting a coding problem daily makes sure you approach one problem every day.
+- Subscribe to [**DailyCodingProblems.com**](http://dailycodingproblems.com). 
+They'd email you one problem everyday.  If you upgrade (for ~$7/mo) then, they'd 
+also send a detailed article with solutions the next day. What I liked about
+them is that, they cover a lot of different types of algorithms, data structures 
+and problem solving techniques. Moreover, getting a coding problem daily makes 
+sure you approach at least one problem every day.
 
-- LeetCode has few curated collections of problems under their explore tab. For 
-most people, it is impossible to approach all thousand problems because of time
-constraints. So, solve curated top [medium](https://leetcode.com/explore/interview/card/top-interview-questions-medium/)
+- LeetCode has few curated collections of problems under their explore tab.  
+Solve curated top [medium](https://leetcode.com/explore/interview/card/top-interview-questions-medium/)
 and some of curated top [hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
 problems. This way, you'd solve wide variety of problem types. 
 
-- Let's talk a little bit about how to gauge your problem solving ability. Given 
-enough time and tools, you can solve most medium problems. But, if you need more
-than 60-70 minutes for a medium problem, that means you are struggling with the 
-problem. So, try to solve a problem first. If you can do it within an hour or 
-so, go to discussion, read the article (if there is one) about the problem. Look
-at different approaches to solve the problems and pros and cons of each 
-solutions (runtime, space complexity etc.) If you encounter a new data structure
-or a new algorithm read up more about it. If you could not arrive to a solution 
-within an hour, mark the problem and revisit it after one or two weeks. 
+- When you are comfortable with problems of medium/intermediate difficulty, you 
+can start solving hard problems. This is also the time, when you can start 
+accepting job interviews and/or start applying. 
 
-- Now, your goal is to be able to solve a LC medium problem under half an hour.
-So, keep solving different problems until you get there. 
 
-- Besides LeetCode, HackerRank is also a great tool for interview preparation. 
+###### Most common interview problems 
+There is a small collection of problems that covers a wider variety of common
+challenges that you may face in an interview. It is a good idea to solve and 
+understand all problems listed 
+[here](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score).
+
+##### Gauging your problem solving ability
+Given enough time and tools, you can solve most medium problems. However, if you
+need more than 60-70 minutes for a medium problem, that means you are struggling 
+with the problem. So, try to solve a problem first. If you can do it within an 
+hour or so, go to discussion, read the article (if there is one) about the 
+problem. Look at different approaches to solve the problems and pros and cons of 
+each solutions (runtime, space complexity etc.) If you encounter a new data 
+structure or a new algorithm read up more about it. If you could not arrive to a
+solution within an hour, mark the problem and revisit it after one or two weeks. 
+
+###### Benchmark
+Your goal is to be able to solve any LC medium problem under half an hour. 
+Usually, a good benchmark would be, being able to solve average LC medium in 
+fifteen to twenty minute. 
+
+##### Other platforms for practice 
+- Besides LeetCode, [HackerRank](https://www.hackerrank.com/) is also a great 
+tool for interview preparation. 
 
 - You can also solve problems in competitive programming platforms such as 
 TopCoder, CodeForces, CodeChef etc and solve ACM ICPC problems. Specially, if you
-find LeetCode and HackerRank boring then, TopCoder is your arena. 
-
-- When you are comfortable with problems of medium/intermediate difficulty, you 
-can start solving hard problems. This is also the time, when you can start accepting
-job interviews and/or start applying. 
-
-- There is a small collection of problems that covers a wider variety of common
-challenges that you may face in an interview. It is a good idea to solve and 
-understand all problems listed [here](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
-
+find LeetCode and HackerRank boring then, TopCoder is your arena.
 
 ##### Study to learn
 
@@ -380,7 +424,7 @@ friends, it can be beneficial to conduct mock interviews on Pramp with strangers
 Besides, [interviewing.io](https://interviewing.io/) is good too.
 
 
-### Preparing for pair programming interviews
+#### Preparing for pair programming interviews
 
 From my experience, being good at your work combined with being good at LC style
 problem solving helps you do good at pair programming interviews. 
@@ -403,41 +447,13 @@ and run tests.
 Think of these 45-60 minute pair programming sessions as rapid prototyping 
 sessions.
 
-
-### Prepare for screening rounds
-
-Most companies screen their candidates before inviting them to on-site. Screening
-can be done using an online assessment (1-2hr) or a phone/video interview session 
-(~1hr).   
-*Some companies may want you to do longer online assessments or take home
-tests. Anything that involves more than 90 minutes of your time and zero minutes
-of your time is a big no.*
-
-**Online assessments** then will have some LC style easy to medium problems to
-solve. You are generally given a clear problem statement and an online coding 
-editor where you can write, run and test codes. Often they will provide 2-3 
-explained test cases and more than a few hidden test cases. Often you can run your
-code and know if all hidden cases passed. These will be done using platforms like
-HackerRank, AmCat etc. 
-
-**Phone interview** is just a single session of on-site interview. Generally they'd
-ask one-two LC style easy to medium questions, but some dark soul may also ask a
-hard problem. _(It is not difficult to solve a hard problem, just that the remote
-nature of the interview often cause technical issues and communication difficulties 
-which may eat up time necessary for a hard problem.)_ Some companies may conduct
-a remote pair programming session. Nothing to worry about either of these interviews.
-One thing to note, even though this round in colloquially known as phone interview
-(because originally it was conducted via telephone) it can utilize any remote 
-communication tool, including but not limited to telephone calls, Hangout/Skype
-etc. or other video conferencing (BlueJeans, Zoom) or online coding interview
-platforms (e.g. HackerRank, CoderPad etc.). 
-
+#### Preparing for screening rounds
 
 Since these rounds are similar to on-site coding interviews, preparing for it is 
 all the same. Just note that, if you found passing phone screening difficult, it 
 is advisable to take way more preparation before going to on-sites. 
 
- 
+
 <br/>
 <hr/>
 
