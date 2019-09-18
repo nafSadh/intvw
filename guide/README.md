@@ -3,7 +3,7 @@ YaGIP: Yet another Guide to Interview Preparation
 
 [nafSadh](http://sadh.me) //
 [notes](https://notes.nafsadh.com) //
-`YaGIP` / 
+[`YaGIP`](http://yagip.sadh.me) / 
 [Preface](http://yagip.sadh.me/preface) / 
 [Reading Log](http://intvw.sadh.me/reading_log) /
 [Resources](http://intvw.sadh.me/reources)

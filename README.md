@@ -7,8 +7,8 @@
 > Notes on software engineering interviews by [nafSadh](https://nafSadh.com).
 
 This collection contains the following:
-- `/YaGIP` [Yet Another Guide to Interview Preparation](https://yagip.sadh.me)
+- `/YaGIP` [Yet Another Guide to Interview Preparation](http://yagip.sadh.me)
 - `/resources` [Yet another list of Interview Preparation Resources
-](https://intvw.nafsadh.com/resources)
+](http://intvw.sadh.me/resources)
 - `/reading_log` [My Reading Log
-](https://intvw.nafsadh.com/reading_log) from 2018-2019
+](http://intvw.sadh.me/reading_log) from 2018-2019
