@@ -14,9 +14,8 @@
       <div class="logo-bg">
         <img src="https://nafsadh.com/img/notes-by-nafsadh.svg" height="92px"/>
       </div>
-      <h1 class="project-name"><a href="{{ site.github.url }}"
-                                  style="color:white;">{{ page.title | default:
-        site.github.repository_name }}</a></h1>
+      <h1 class="project-name"><a href="{{ site.github.url }}" style="color:white;">
+        {{ site.page | default: site.github.repository_name }}</a></h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
