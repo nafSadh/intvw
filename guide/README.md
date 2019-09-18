@@ -1,16 +1,15 @@
-YAGIP
-=====
-#### Yet Another Guide on Interview Prep
+YaGIP: Yet another Guide to Interview Preparation 
+=================================================
 
 [nafSadh](http://sadh.me) //
 [notes](https://notes.nafsadh.com) //
-<u>YAGIP</u> / 
-[Preface](http://intvw.nafsadh.com/yagip/preface) / 
-[Reading Log](http://intvw.nafsadh.com/reading_log) /
-[Resources](http://intvw.nafsadh.com/reading_log)
+`YaGIP` / 
+[Preface](http://yagip.sadh.me/preface) / 
+[Reading Log](http://intvw.sadh.me/reading_log) /
+[Resources](http://intvw.sadh.me/reources)
 
-This article talks how to prepare for a software engineering job interview. 
-Before going into "how-to" it talks a bit about "what to". 
+This article talks about what are the things to focus on and how to prepare for 
+software engineering job interviews. 
 
 ## Table of Contents
 - [Mindset and approach](#mindset-and-approach)

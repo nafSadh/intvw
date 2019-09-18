@@ -15,6 +15,6 @@ with just one company at once. After I started preparing, I started scheduling i
 Nailed most of it, but not all of them. 
 
 In my honest opinion, there is no point in writing 
-_**yet another guide on interview prep**_ (abbr. YAGIP); 
+_**yet another guide to interview preparation**_ (abbr. YAGIP); 
 but I am  scribing it down, mostly for my own record. If it turns out to be 
 helpful to someone else, then that is a plus.
