@@ -1,6 +1,10 @@
 Yet another list of Interview Preparation Resources
 ===================================================
-`> draft v0.5.3`
+> [nafSadh](http://sadh.me) //
+[notes](https://notes.nafsadh.com) //
+[YaGIP](http://yagip.sadh.me) / 
+[Reading Log](http://intvw-rl.sadh.me) /
+[`yalipr`](http://yalipr.sadh.me)
 
 Preparing for software engineering interview needs time, attention and practice; and to help with that, there are many 
 resources sprinkled all over the internet and bookshelves. Some of them are wonderful and some of them are meh. Browsing
