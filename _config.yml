@@ -1,6 +1,10 @@
-theme: jekyll-theme-cayman
 title: intvw
 description: notes on interview by nafSadh
+
+remote_theme: pmarsceill/just-the-docs
+search_enabled: false
+color_scheme: dark
+footer_content: &copy; 2021 nafSadh
 plugins:
   - jekyll-redirect-from
   
