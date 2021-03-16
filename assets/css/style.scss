@@ -5,7 +5,7 @@ $section-headings-color: #17afee !default;
 $body-text-color: #606c71 !default;
 $body-link-color: #155799 !default;
 
-@import "{{ site.theme }}";
+//@import "{{ site.theme }}";
 
 .project-name{
   font-weight: 500 !important;
