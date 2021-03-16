@@ -4,7 +4,7 @@ title: intvw
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 color_scheme: dark
-footer_content: &copy; 2021 nafSadh
+footer_content: "&copy; 2021 nafSadh"
 plugins:
   - jekyll-redirect-from
   
